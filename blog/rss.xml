@@ -9,21 +9,21 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[#1 - Aula introdutoria]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/1</link>
+            <link>https://your-docusaurus-test-site.com/website/blog/1</link>
             <guid>1</guid>
             <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[13/03/2021]]></description>
         </item>
         <item>
             <title><![CDATA[Hello]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/hello-world</link>
+            <link>https://your-docusaurus-test-site.com/website/blog/hello-world</link>
             <guid>hello-world</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
         </item>
         <item>
             <title><![CDATA[Hola]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/hola</link>
+            <link>https://your-docusaurus-test-site.com/website/blog/hola</link>
             <guid>hola</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>

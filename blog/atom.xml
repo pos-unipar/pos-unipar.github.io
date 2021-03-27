@@ -10,21 +10,21 @@
     <entry>
         <title type="html"><![CDATA[#1 - Aula introdutoria]]></title>
         <id>1</id>
-        <link href="https://your-docusaurus-test-site.com/blog/1"/>
+        <link href="https://your-docusaurus-test-site.com/website/blog/1"/>
         <updated>2021-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[13/03/2021]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
         <id>hello-world</id>
-        <link href="https://your-docusaurus-test-site.com/blog/hello-world"/>
+        <link href="https://your-docusaurus-test-site.com/website/blog/hello-world"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hola]]></title>
         <id>hola</id>
-        <link href="https://your-docusaurus-test-site.com/blog/hola"/>
+        <link href="https://your-docusaurus-test-site.com/website/blog/hola"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
     </entry>
