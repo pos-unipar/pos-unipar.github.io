@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>Pós Web &amp; Dispositivos Móveis - Unipar Blog</title>
+    <updated>2021-03-22T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>Pós Web &amp; Dispositivos Móveis - Unipar Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#1 - Aula introdutoria]]></title>
+        <id>1</id>
+        <link href="https://your-docusaurus-test-site.com/blog/1"/>
+        <updated>2021-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[13/03/2021]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello]]></title>
+        <id>hello-world</id>
+        <link href="https://your-docusaurus-test-site.com/blog/hello-world"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hola]]></title>
+        <id>hola</id>
+        <link href="https://your-docusaurus-test-site.com/blog/hola"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+    </entry>
+</feed>
