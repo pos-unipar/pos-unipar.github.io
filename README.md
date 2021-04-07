@@ -1,33 +1,56 @@
-# Website
+# Pós Web & Dispositivos Móveis - Unipar 2021
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+Mais informações da pós podem ser vistas pelo [site da Unipar](https://pos.unipar.br/especializacao/desenvolvimento-de-aplicacoes-web-e-mobile/toledo).
 
-## Installation
+# Criar
 
-```console
-yarn install
+Para criar esse projeto, siga os passos abaixo.
+
+## Requisitos
+- [Node.js](https://nodejs.org/en/download/) version >= 12.13.0 ou superior. (```node -v```)
+- [Yarn](https://yarnpkg.com/en/) version >= 1.5 (```yarn --version```)
+
+Mais informações podem ser lidas em no site oficial do [Docusaurus](https://v2.docusaurus.io/docs/installation#requirements).
+
+## Criação
+
+Utilize o comando abaixo para criar o projeto.
+```bash
+npx @docusaurus/init@latest init pos-unipar classic
 ```
 
-## Local Development
+## Comandos
 
-```console
-yarn start
-```
+|Comando|Descrição|
+|-|-|
+|```npm start```|Iniciar servidor de desenvolvimento|
+|```npm run build```|Gerar build do projeto|
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+# Documentação original
 
-## Build
+[DOCUSAURUS.md](DOCUSAURUS.md)
 
-```console
-yarn build
-```
+# Idealizadores
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lucasbaccan">
+        <img src="https://avatars.githubusercontent.com/u/2676484?v=3?s=100" width="100px;" alt=""/><br />
+        <sub><b>Lucas Elias Baccan</b></sub>
+      </a>
+    <br />
+    <td align="center">
+      <a href="https://github.com/VictorMBalves">
+        <img src="https://avatars.githubusercontent.com/u/31356911?v=3?s=100" width="100px;" alt=""/><br />
+        <sub><b>Victor Matheus Alves</b></sub>
+      </a>
+      <br />
+    </td>
+  </tr>
+</table>
 
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
