@@ -22,7 +22,7 @@ Lista de conteúdos apresentados na pós.
 |Banco de dados: SQL & NoSQL|30 horas| |
 |Desenvolvimento Back-End com JAVA|40 horas| |
 |Flutter|40 horas| |
-|[HTML5, CSS3 e Javascript](./html-css-js)|	30 horas|Jemerson|
+|[HTML5, CSS3 e Javascript](./html-css-js)|	30 horas|[Jemerson](/professores/jemerson) |
 |Node.js|40 horas| |
 |Progressive web apps|30 horas| |
 |Python|30 horas| |
