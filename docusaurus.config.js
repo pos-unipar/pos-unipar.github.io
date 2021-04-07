@@ -20,10 +20,16 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Conteúdos',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+          to: 'professores/',
+          activeBasePath: 'professores',
+          label: 'Professores',
+          position: 'left',
+        },
+        { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/pos-unipar/pos-unipar.github.io',
           label: 'GitHub',
@@ -82,7 +88,10 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          id: 'docs',
+          path: 'docs/docs',
           editUrl: 'https://github.com/pos-unipar/pos-unipar.github.io/edit/master/',
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
@@ -94,6 +103,44 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+      },
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'exemplos',
+        path: 'docs/exemplos',
+        editUrl: 'https://github.com/pos-unipar/pos-unipar.github.io/edit/master/',
+        routeBasePath: 'exemplos',
+        sidebarPath: require.resolve('./sidebarsExemplos.js'),
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'professores',
+        path: 'docs/professores',
+        editUrl: 'https://github.com/pos-unipar/pos-unipar.github.io/edit/master/',
+        routeBasePath: 'professores',
+        sidebarPath: require.resolve('./sidebarsProfessores.js'),
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'info',
+        path: 'docs/info',
+        editUrl: 'https://github.com/pos-unipar/pos-unipar.github.io/edit/master/',
+        routeBasePath: 'info',
+        sidebarPath: require.resolve('./sidebarsInfo.js'),
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
       },
     ],
   ],

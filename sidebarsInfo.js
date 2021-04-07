@@ -2,9 +2,9 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Docusaurus Tutorial',
+      label: 'Informações',
       items: [
-        'index',
+        'creditos',
       ],
     },
   ],
