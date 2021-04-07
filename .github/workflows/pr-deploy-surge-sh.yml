@@ -1,0 +1,57 @@
+name: "Deploy site to surge.sh"
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master 
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+jobs:
+  build-and-deploy:
+    name: "Build and Deploy"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Cache node modules
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: 
+            ~/.npm
+          key: npm-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ hashFiles('package-lock.json') }}
+            npm-${{ runner.os }}-
+            npm-
+
+      - uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: 12
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Install Surge.sh
+        run: npm install -g surge
+
+      - name: Deploy to Surge.sh
+        run: surge ./build https://pull-request-${{ github.event.pull_request.number }}-pos-unipar.surge.sh/ --token ${{ secrets.BACCAN_SURGE_TOKEN }}
+
+      - name: Comment on pull request
+        uses: mshick/add-pr-comment@v1
+        with:
+          message: 'Uma nova versão está disponível em [https://pull-request-${{ github.event.pull_request.number }}-pos-unipar.surge.sh](https://pull-request-${{ github.event.pull_request.number }}-pos-unipar.surge.sh)/'
+          repo-token: ${{ secrets.GITHUB_TOKEN  }}
+          repo-token-user-login: "github-actions[bot]"
+          # allow-repeats: false
