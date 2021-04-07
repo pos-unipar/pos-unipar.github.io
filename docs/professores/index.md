@@ -19,5 +19,5 @@ keywords:
 |Carlos Alberto Meier Basso|Mestre||
 |Fernando Rigo Botelho|Mestre||
 |Geferson Luis Simonette|Especialista||
-|Jemerson Fernando Maia|Especialista||
+|Jemerson Fernando Maia|Especialista|[HTML, CSS e JS](../docs/html-css-js)|
 |Ricardo Grassi|Especialista||
