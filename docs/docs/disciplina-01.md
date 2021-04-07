@@ -14,7 +14,7 @@ keywords:
 slug: /html-css-js
 ---
 
-**Professor**: [Jemerson](/professores/jemerson)
+**Professor**: Jemerson
 
 ## Assuntos abordados
 
