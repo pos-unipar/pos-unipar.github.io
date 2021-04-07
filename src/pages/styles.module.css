@@ -5,7 +5,7 @@
  * and scoped locally.
  */
 
-.heroBanner {
+ .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
@@ -34,4 +34,38 @@
 .featureImage {
   height: 200px;
   width: 200px;
+}
+
+.indexCtasGetStartedButton {
+  border: 1px solid #fff;
+  display: inline-block;
+  line-height: 1.2em;
+  text-decoration: none !important;
+  text-transform: uppercase;
+  transition: background 0.3s, color 0.3s;
+  border-radius: 8px;
+  border-width: 2px;
+  background-color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 18px 36px;
+  margin: 10px;
+  /* margin-right: 20px; */
+}
+
+.indexCtasGetStartedButton:hover {
+  /* border: 1px solid var(--ifm-color-primary); */
+  border: 1px solid #fff;
+  display: inline-block;
+  line-height: 1.2em;
+  text-decoration: none !important;
+  text-transform: uppercase;
+  transition: background 0.3s, color 0.3s;
+  border-radius: 8px;
+  border-width: 2px;
+  background-color: var(--ifm-color-primary);
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 18px 36px;
 }
