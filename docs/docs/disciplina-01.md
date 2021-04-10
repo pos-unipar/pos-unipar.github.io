@@ -31,13 +31,17 @@ slug: /html-css-js
 
 - [27/03/2021 - Aula 01](/blog/2)
   - HTML5
-  - Modernizer
+  - [*Modernizer*](https://modernizr.com/)
   - HTML5
-  - Boilerplate
+  - *Boilerplate*
   - Formulários e Validações
   - CSS3
 - [10/04/2021 - Aula 02](/blog/3)
-  - CSS3
+  - CSS3 (continuação)
+  - SASS
+  - Javascript
+  - JQuery
+- 24/04/2021
 
 ## Materiais utilizados na disciplina
 - 27/03/2021
@@ -82,3 +86,10 @@ Criar um formulário para cadastro de noticias, contendo campos para:
 - Introdução
 - Endereço de origem (URL)
 - Botão enviar
+
+### Atividade 3
+> Página 61 do '[Máterial em PDF aula 02](/docs/aula-3/aula-02.pdf)'
+
+```Entregar até próxima aula, dia 24/04```
+
+Adicionar coluna na tabela contendo link em cada linha que ao clicar remove a linha toda da tabela
