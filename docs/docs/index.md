@@ -33,5 +33,6 @@ Lista de conteúdos apresentados na pós.
 
 |Data|Disciplina|Descrição|
 |-|-|-|
-|13/03/2021|Aula inicial||
-|27/03/2021|[HTML5, CSS3 e Javascript](./html-css-js)|Post no [blog](../blog/2)|
+|13/03/2021|Aula inicial|Post no [blog](/blog/1)|
+|27/03/2021|[HTML5, CSS3 e Javascript](./html-css-js)|Post no [blog](/blog/2)|
+|10/04/2021|[HTML5, CSS3 e Javascript](./html-css-js)|Post no [blog](/blog/3)|

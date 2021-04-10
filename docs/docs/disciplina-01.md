@@ -29,32 +29,35 @@ slug: /html-css-js
 
 ## Calendário
 
-- 27/03/2021 - Aula 01
+- [27/03/2021 - Aula 01](/blog/2)
   - HTML5
-  - Modernizr
+  - Modernizer
   - HTML5
   - Boilerplate
   - Formulários e Validações
   - CSS3
-- 10/04/2021 - Aula 02
-  - **Não realizada ainda**
+- [10/04/2021 - Aula 02](/blog/3)
+  - CSS3
 
 ## Materiais utilizados na disciplina
 - 27/03/2021
-  - [Máterial em PDF](/docs/aula-2/aula01.pdf)
-
+  - [Máterial em PDF aula 01](/docs/aula-2/aula01.pdf)
+- 10/04/2021
+  - [Máterial em PDF aula 01](/docs/aula-3/aula-01.pdf)
+  - [Máterial em PDF aula 02](/docs/aula-3/aula-02.pdf)
+  -
 ## Atividades solicitadas para serem entregues
 
 ### Atividade 1 
-> Página 32 do 'Máterial em PDF'
+> Página 32 do '[Máterial em PDF aula 01](/docs/aula-2/aula01.pdf)'
 
 ```Entregue durante a aula```
 
-Criar um arquivo index.html que contenha os seguintes eleementos
+Criar um arquivo index.html que contenha os seguintes elementos
 
-- Cabeçalho com ltulo do website (HTML5, CSS3, JS)
-- Links de navegação para noxcias e formulário
-- Área principal contendo 3 arlgos 
+- Cabeçalho com titulo do website (HTML5, CSS3, JS)
+- Links de navegação para noticias e formulário
+- Área principal contendo 3 artigos 
   - Titulo
   - Data e email(autor)
   - Imagem
@@ -66,9 +69,9 @@ Criar um arquivo index.html que contenha os seguintes eleementos
 
 ### Atividade 2
 
-> Página 39 do 'Máterial em PDF'
+> Página 39 do '[Máterial em PDF aula 01](/docs/aula-2/aula01.pdf)'
 
-```Entregar até proxima aula, dia 10/04```
+```Entregar até próxima aula, dia 10/04```
 
 Criar um formulário para cadastro de noticias, contendo campos para: 
 - Título
