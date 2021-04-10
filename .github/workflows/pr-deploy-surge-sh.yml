@@ -54,4 +54,4 @@ jobs:
           message: 'Uma nova versão está disponível em [https://pull-request-${{ github.event.pull_request.number }}-pos-unipar.surge.sh](https://pull-request-${{ github.event.pull_request.number }}-pos-unipar.surge.sh)/'
           repo-token: ${{ secrets.GITHUB_TOKEN  }}
           repo-token-user-login: "github-actions[bot]"
-          # allow-repeats: false
+          allow-repeats: true
