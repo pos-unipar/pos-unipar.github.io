@@ -23,9 +23,9 @@ jobs:
         with:
           path: 
             ~/.npm
-          key: npm-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          key: npm-${{ runner.os }}-${{ hashFiles('package.json') }}
           restore-keys: |
-            ${{ hashFiles('package-lock.json') }}
+            ${{ hashFiles('package.json') }}
             npm-${{ runner.os }}-
             npm-
 
@@ -54,4 +54,4 @@ jobs:
           message: 'Uma nova versão está disponível em [https://pull-request-${{ github.event.pull_request.number }}-pos-unipar.surge.sh](https://pull-request-${{ github.event.pull_request.number }}-pos-unipar.surge.sh)/'
           repo-token: ${{ secrets.GITHUB_TOKEN  }}
           repo-token-user-login: "github-actions[bot]"
-          # allow-repeats: false
+          allow-repeats: true
