@@ -23,9 +23,9 @@ jobs:
         with:
           path: 
             ~/.npm
-          key: npm-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          key: npm-${{ runner.os }}-${{ hashFiles('package.json') }}
           restore-keys: |
-            ${{ hashFiles('package-lock.json') }}
+            ${{ hashFiles('package.json') }}
             npm-${{ runner.os }}-
             npm-
 
