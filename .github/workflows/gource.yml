@@ -1,0 +1,47 @@
+name: Gource Action
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  action:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+        
+      - name: 'Gource Action'
+        uses: nbprojekt/gource-action@v1
+        with:
+          gource_title: 'Projeto teste'
+          gource_fps: 60
+
+      - name: 'Upload gource video'
+        uses: actions/upload-artifact@v2
+        with:
+          name: Gource
+          path: ./gource/gource.mp4
+          
+      - name: Commit files
+        run: |
+          mv ./gource/gource.mp4 ./gource.mp4
+          find . ! -name 'gource.mp4' -type f -exec rm -f {} +
+          git init
+          git remote add origin "https://github.com/$${{ github.repository }}.git"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Add changes" -a
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gource
+          force: true
