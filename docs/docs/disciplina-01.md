@@ -49,7 +49,6 @@ slug: /html-css-js
 - 10/04/2021
   - [Máterial em PDF aula 01](/docs/aula-3/aula-01.pdf)
   - [Máterial em PDF aula 02](/docs/aula-3/aula-02.pdf)
-  -
 ## Atividades solicitadas para serem entregues
 
 ### Atividade 1 
