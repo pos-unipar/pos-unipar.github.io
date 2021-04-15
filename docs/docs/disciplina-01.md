@@ -87,8 +87,15 @@ Criar um formulário para cadastro de noticias, contendo campos para:
 - Botão enviar
 
 ### Atividade 3
+
+```Entregar até próxima aula, dia 24/04 (Não vale nota)```
+
+- Adicionar estilos SASS ao formulário da [atividade 2](#atividade-2)
+
+### Atividade 4
 > Página 61 do '[Máterial em PDF aula 02](/docs/aula-3/aula-02.pdf)'
 
-```Entregar até próxima aula, dia 24/04```
+```Entregar até próxima aula, dia 24/04 (Não vale nota)```
 
-Adicionar coluna na tabela contendo link em cada linha que ao clicar remove a linha toda da tabela
+- Criar um arquivo, que contenha uma tabela, e nesta tabela deve conter um link que  ao clicar remove a linha toda da tabela.
+
