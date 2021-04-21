@@ -1,14 +1,19 @@
 {
     "name": "P\u00f3s Web & Dispositivos M\u00f3veis",
     "short_name": "P\u00f3s Unipar",
-    "lang": "en",
     "description": "Unipar - 2021",
-    "background_color": "#ed3237",
-    "theme_color": "#ffffff",
-    "dir": "ltr",
+    "lang": "en",
+    "theme_color": "#2196f3",
+    "background_color": "#424242",
     "display": "standalone",
-    "orientation": "portrait-primary",
-    "start_url": "/",
+    "scope": "./",
+    "start_url": "./index.html",
+    "related_applications": [
+      {
+        "platform": "webapp",
+        "url": "https://pos-unipar.github.io/manifest.json"
+      }
+    ],
     "icons": [
         {
             "src": "/android-chrome-36x36.png",
@@ -65,11 +70,5 @@
             "purpose": "maskable"
         }
     ],
-    "prefer_related_applications": "false",
-    "related_applications": [
-        {
-          "platform": "webapp",
-          "url": "https://pos-unipar.github.io/manifest.json"
-        }
-    ]
+    "prefer_related_applications": "false"
 }
