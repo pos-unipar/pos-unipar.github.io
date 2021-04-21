@@ -5,6 +5,7 @@ module.exports = {
       label: 'Informações',
       items: [
         'creditos',
+        'equipe',
       ],
     },
   ],

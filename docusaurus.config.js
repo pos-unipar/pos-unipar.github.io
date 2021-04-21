@@ -31,6 +31,12 @@ module.exports = {
         },
         { to: 'blog', label: 'Blog', position: 'left' },
         {
+          to: 'info/',
+          activeBasePath: 'info',
+          label: 'Info',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/pos-unipar/pos-unipar.github.io',
           label: 'GitHub',
           position: 'right',
