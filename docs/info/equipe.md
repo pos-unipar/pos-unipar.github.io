@@ -4,11 +4,11 @@ title: Equipe
 slug: /equipe
 ---
 
-# Equipe
-
 Informações sobre quem criou e quem ajuda a mantar este projeto.
 
 ## Idealizadores
+
+<!-- https://infima.dev/docs/components/badge -->
 
 <div class="container">
   <div class="row">
@@ -21,8 +21,14 @@ Informações sobre quem criou e quem ajuda a mantar este projeto.
         <div class="avatar__intro">
           <h4 class="avatar__name">Lucas Elias Baccan</h4>
           <small class="avatar__subtitle">
-            <span class="badge badge--secondary">Programador</span>&nbsp;&nbsp;
-            <span class="badge badge--warning">DevSecOps</span>&nbsp;&nbsp;
+            <span class="badge badge--info">
+              <a class="footer__link-item" 
+                 href="https://www.linkedin.com/in/lucas-baccan/">LinkedIn</a>
+            </span>&nbsp;&nbsp;
+            <span class="badge badge--secondary">
+              <a class="footer__link-item" 
+                 href="https://github.com/lucasbaccan/">Github</a>
+            </span>&nbsp;&nbsp;
           </small>
         </div>
       </div>
@@ -37,8 +43,14 @@ Informações sobre quem criou e quem ajuda a mantar este projeto.
         <div class="avatar__intro">
           <h4 class="avatar__name">Victor Matheus Alves</h4>
           <small class="avatar__subtitle">
-            <span class="badge badge--secondary">Programador</span>&nbsp;&nbsp;
-            <span class="badge badge--warning">DevSecOps</span>&nbsp;&nbsp;
+            <span class="badge badge--info">
+              <a class="footer__link-item" 
+                 href="https://www.linkedin.com/in/victor-alves-2191a2105/">LinkedIn</a>
+            </span>&nbsp;&nbsp;
+            <span class="badge badge--secondary">
+              <a class="footer__link-item" 
+                 href="https://github.com/VictorMBalves/">Github</a>
+            </span>&nbsp;&nbsp;
           </small>
         </div>
       </div>
