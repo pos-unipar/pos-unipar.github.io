@@ -18,6 +18,13 @@ Utilizado para armazenar o código fonte e fazer host do site utilizando Github 
 [https://github.com/](https://github.com/)
 :::
 
+## Surge.sh
+
+Utilizado para fazer host dos sites de teste que são gerados durante ciclo de desenvolvimento do site. Após o desenvolvimento, a versão final é enviada para o GitHub Pages.
+:::note Link
+[https://surge.sh/](https://surge.sh/)
+:::
+
 ## Comprimir arquivos PDF
 
 Utilizado para diminuir o tamanho dos arquivos .PDF que foram utilizados durante a pós.

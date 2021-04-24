@@ -205,7 +205,7 @@ module.exports = {
           {
             tagName: 'meta',
             name: 'msapplication-TileColor',
-            content: '#000',
+            content: '#ffffff',
           },
         ],
       },

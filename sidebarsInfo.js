@@ -14,6 +14,15 @@ module.exports = {
       label: 'Programas e Ferramentas',
       collapsed: false,
       items: [
+        {
+          type: 'category',
+          label: 'Programas',
+          collapsed: true,
+          items: [
+            'programas/programas-git',
+            'programas/programas-visual-studio-code',
+          ],
+        },
         'ferramentas-online',
       ],
     },
