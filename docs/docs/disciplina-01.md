@@ -47,8 +47,13 @@ slug: /html-css-js
 - 27/03/2021
   - [Máterial em PDF aula 01](/docs/aula-2/aula01.pdf)
 - 10/04/2021
-  - [Máterial em PDF aula 01](/docs/aula-3/aula-01.pdf)
+  - [Máterial em PDF aula 01](/docs/aula-3/aula-01.pdf) (*Nova versão*)
   - [Máterial em PDF aula 02](/docs/aula-3/aula-02.pdf)
+- 24/04/2021
+  - [Máterial em PDF aula 02](/docs/aula-4/aula-02.pdf) (*Nova versão*)
+  - [Máterial em PDF aula 03](/docs/aula-4/aula-03.pdf)
+  - [Trabalho](/docs/aula-4/trabalho.pdf)
+
 ## Atividades solicitadas para serem entregues
 
 ### Atividade 1 
@@ -98,4 +103,18 @@ Criar um formulário para cadastro de noticias, contendo campos para:
 ```Entregar até próxima aula, dia 24/04 (Não vale nota)```
 
 - Criar um arquivo, que contenha uma tabela, e nesta tabela deve conter um link que  ao clicar remove a linha toda da tabela.
+
+### Atividade 5
+> Página 61 do '[Máterial em PDF aula 02](/docs/aula-4/aula-02.pdf)'
+
+```Entregar até próxima aula, dia 24/04 (Não vale nota)```
+
+- Criar um arquivo, que contenha uma tabela, e nesta tabela deve conter um link que  ao clicar remove a linha toda da tabela.
+
+### Trabalho final
+> Página 1 do '[Máterial em PDF do trabalho](/docs/aula-4/trabalho.pdf)'
+
+```Entregar até próxima aula, dia 08/05/2021```
+
+
 

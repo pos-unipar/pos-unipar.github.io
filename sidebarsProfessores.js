@@ -3,6 +3,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Professores',
+      collapsed: false,
       items: [
         'index',
         'geferson',
