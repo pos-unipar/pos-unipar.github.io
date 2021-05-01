@@ -47,3 +47,17 @@ slug: /myDoc
 ---
 My Document Markdown content
 ```
+
+
+<details><summary>Exemplos</summary>
+<p>
+
+```js title=Exemplo
+// ES5
+var x = function(x, y) {
+    return x * y;
+}
+```
+</p>
+</details>  
+<br />

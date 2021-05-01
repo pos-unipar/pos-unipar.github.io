@@ -41,14 +41,21 @@ slug: /html-css-js
   - SASS
   - Javascript
   - JQuery
-- 24/04/2021
+- [24/04/2021 - Aula 03](/blog/4)
+  - JQuery (continuação)
+  - ES6
 
 ## Materiais utilizados na disciplina
 - 27/03/2021
   - [Máterial em PDF aula 01](/docs/aula-2/aula01.pdf)
 - 10/04/2021
-  - [Máterial em PDF aula 01](/docs/aula-3/aula-01.pdf)
+  - [Máterial em PDF aula 01](/docs/aula-3/aula-01.pdf) (*Nova versão*)
   - [Máterial em PDF aula 02](/docs/aula-3/aula-02.pdf)
+- 24/04/2021
+  - [Máterial em PDF aula 02](/docs/aula-4/aula-02.pdf) (*Nova versão*)
+  - [Máterial em PDF aula 03](/docs/aula-4/aula-03.pdf)
+  - [Trabalho](/docs/aula-4/trabalho.pdf)
+
 ## Atividades solicitadas para serem entregues
 
 ### Atividade 1 
@@ -88,14 +95,33 @@ Criar um formulário para cadastro de noticias, contendo campos para:
 
 ### Atividade 3
 
-```Entregar até próxima aula, dia 24/04 (Não vale nota)```
+```Atividade extra (Não vale nota)```
 
 - Adicionar estilos SASS ao formulário da [atividade 2](#atividade-2)
 
 ### Atividade 4
 > Página 61 do '[Máterial em PDF aula 02](/docs/aula-3/aula-02.pdf)'
 
-```Entregar até próxima aula, dia 24/04 (Não vale nota)```
+```Atividade extra (Não vale nota)```
 
 - Criar um arquivo, que contenha uma tabela, e nesta tabela deve conter um link que  ao clicar remove a linha toda da tabela.
 
+### Atividade 5
+```Atividade durante a aula (Não vale nota)```
+
+Durante a [aula do dia 24/04/2021](/blog/4), foi realizado a implementação de Jquery em um formulário feito na [atividade 2](#atividade-2), utilizando ele como base faça:
+
+- Fazer com que o fomulário insira os campos em uma tabela abaixo do formulário;
+- Fazer com que essa tabela tenha um botão para remover a linha;
+
+### Atividade 6
+```Atividade durante a aula (Não vale nota)```
+
+Na [atividade 1](#atividade-1), utilizando ela como base faça:
+
+- Adicionar recurso de Drag/Drop para as noticias;
+
+### Trabalho final
+> Página 1 do '[Máterial em PDF do trabalho](/docs/aula-4/trabalho.pdf)'
+
+```Entregar até próxima aula, dia 08/05/2021```

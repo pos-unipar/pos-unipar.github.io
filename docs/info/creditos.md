@@ -1,7 +1,7 @@
 ---
 id: creditos
 title: Créditos
-slug: /
+slug: /creditos
 ---
 
 <!-- Utilizar dessa forma não aparece no menu lateral direito -->

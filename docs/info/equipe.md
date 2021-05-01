@@ -1,7 +1,7 @@
 ---
 id: equipe
 title: Equipe
-slug: /equipe
+slug: /
 ---
 
 Informações sobre quem criou e quem ajuda a mantar este projeto.

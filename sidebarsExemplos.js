@@ -3,6 +3,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Docusaurus Tutorial',
+      collapsed: false,
       items: [
         'getting-started',
         'create-a-page',

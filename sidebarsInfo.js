@@ -3,9 +3,27 @@ module.exports = {
     {
       type: 'category',
       label: 'Informações',
+      collapsed: false,
       items: [
-        'creditos',
         'equipe',
+        'creditos',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Programas e Ferramentas',
+      collapsed: false,
+      items: [
+        {
+          type: 'category',
+          label: 'Programas',
+          collapsed: true,
+          items: [
+            'programas/programas-git',
+            'programas/programas-visual-studio-code',
+          ],
+        },
+        'ferramentas-online',
       ],
     },
   ],
