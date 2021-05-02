@@ -19,7 +19,7 @@ jobs:
       - name: 'Gource Action'
         uses: nbprojekt/gource-action@v1
         with:
-          gource_title: "${{ github.repository.name }}"
+          gource_title: "${{ github.event.repository.name }}"
           gource_fps: 60
           gource_max_user_speed: 100
           gource_time_scale: 1
@@ -36,7 +36,7 @@ jobs:
           mv ./gource/gource.mp4 ./gource.mp4
           find . ! -name 'gource.mp4' -type f -exec rm -f {} +
           git init
-          git remote add origin "https://github.com/$${{ github.repository }}.git"
+          git remote add origin "https://github.com/${{ github.repository }}.git"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
