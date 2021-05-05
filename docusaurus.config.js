@@ -64,7 +64,7 @@ module.exports = {
           items: [
             {
               label: 'Slack',
-              href: 'https://app.slack.com/client/T01TA24MZ88/D01TARRTEM6',
+              href: 'https://pswebdisposit-4ss3184.slack.com',
             },
             {
               label: 'GitHub',
