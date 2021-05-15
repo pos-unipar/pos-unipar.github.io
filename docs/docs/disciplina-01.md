@@ -47,7 +47,7 @@ slug: /html-css-js
 
 ## Materiais utilizados na disciplina
 - 27/03/2021
-  - [Máterial em PDF aula 01](/docs/aula-2/aula01.pdf)
+  - [Máterial em PDF aula 01](/docs/aula-2/aula-01.pdf)
 - 10/04/2021
   - [Máterial em PDF aula 01](/docs/aula-3/aula-01.pdf) (*Nova versão*)
   - [Máterial em PDF aula 02](/docs/aula-3/aula-02.pdf)
@@ -59,7 +59,7 @@ slug: /html-css-js
 ## Atividades solicitadas para serem entregues
 
 ### Atividade 1 
-> Página 32 do '[Máterial em PDF aula 01](/docs/aula-2/aula01.pdf)'
+> Página 32 do '[Máterial em PDF aula 01](/docs/aula-2/aula-01.pdf)'
 
 ```Entregue durante a aula```
 
@@ -79,7 +79,7 @@ Criar um arquivo index.html que contenha os seguintes elementos
 
 ### Atividade 2
 
-> Página 39 do '[Máterial em PDF aula 01](/docs/aula-2/aula01.pdf)'
+> Página 39 do '[Máterial em PDF aula 01](/docs/aula-2/aula-01.pdf)'
 
 ```Entregar até próxima aula, dia 10/04```
 
