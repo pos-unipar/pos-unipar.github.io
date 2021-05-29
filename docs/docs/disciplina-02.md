@@ -23,12 +23,11 @@ slug: /angular
 
 - [15/05/2021 - Aula 01](/blog/5)
   - Introdução ao angular
-- [29/05/2021 - Aula 02](/blog/6)
-- [12/06/2021 - Aula 03](/blog/7)
+  - Angular CLI
 
 ## Materiais utilizados na disciplina
 15/05/2021
-  - Sem material
+  - [Máterial em PDF aula 01](/docs/aula-5/angular.pdf)
 
 ## Atividades solicitadas para serem entregues
 

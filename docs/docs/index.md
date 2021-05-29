@@ -18,7 +18,7 @@ Lista de conteúdos apresentados na pós.
 |Nome|Carga horária|Professor|
 |-|-|-|
 |Android|40 horas| |
-|[Angular](/angular)|40 horas| |
+|[Angular](./angular)|40 horas| |
 |Banco de dados: SQL & NoSQL|30 horas| |
 |Desenvolvimento Back-End com JAVA|40 horas| |
 |Flutter|40 horas| |
