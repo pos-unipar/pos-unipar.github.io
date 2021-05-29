@@ -13,7 +13,7 @@ slug: /angular
 ---
 
 <!-- Corrigir isso aqui depois -->
-**Professor**: [Jean?](#)
+**Professor**: [Jean](/professores/jean)
 
 ## Assuntos abordados
 
@@ -24,11 +24,14 @@ slug: /angular
 - [15/05/2021 - Aula 01](/blog/5)
   - Introdução ao angular
   - Angular CLI
+- [29/05/2021 - Aula 01](/blog/6)
+  - ????
 
 ## Materiais utilizados na disciplina
 15/05/2021
   - [Máterial em PDF aula 01](/docs/aula-5/angular.pdf)
-
+15/05/2021
+  - [Máterial em PDF aula 02](/docs/aula-5/angular.pdf)???????
 ## Atividades solicitadas para serem entregues
 
 Sem atividades

@@ -21,3 +21,4 @@ keywords:
 |Geferson Luis Simonette|Especialista||
 |Jemerson Fernando Maia|Especialista|[HTML, CSS e JS](../docs/html-css-js)|
 |Ricardo Grassi|Especialista||
+|Jean Junior Heldt|Especialista|[Angular](../docs/angular)|
