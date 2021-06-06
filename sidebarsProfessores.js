@@ -8,6 +8,7 @@ module.exports = {
         'index',
         'geferson',
         'jemerson',
+        'jean',
       ],
     },
   ],
