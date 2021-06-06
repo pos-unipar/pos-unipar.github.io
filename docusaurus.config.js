@@ -104,8 +104,34 @@ module.exports = {
           showLastUpdateTime: true,
         },
         blog: {
-          showReadingTime: true,
+          path: 'blog',
           editUrl: 'https://github.com/pos-unipar/pos-unipar.github.io/edit/master/',
+          blogTitle: 'Blog',
+          blogDescription: 'Blog',
+          blogSidebarCount: 'ALL',
+          // blogSidebarTitle: 'All our posts',
+          routeBasePath: 'blog',
+          include: ['*.md', '*.mdx'],
+          postsPerPage: 10,
+          // /**
+          //  * Theme components used by the blog pages.
+          //  */
+          blogListComponent: '@theme/BlogListPage',
+          blogPostComponent: '@theme/BlogPostPage',
+          blogTagsListComponent: '@theme/BlogTagsListPage',
+          blogTagsPostsComponent: '@theme/BlogTagsPostsPage',
+          showReadingTime: true,
+          // /**
+          //  * Blog feed.
+          //  * If feedOptions is undefined, no rss feed will be generated.
+          //  */
+          // feedOptions: {
+          //   type: '', // required. 'rss' | 'feed' | 'all'
+          //   title: '', // default to siteConfig.title
+          //   description: '', // default to  `${siteConfig.title} Blog`
+          //   copyright: '',
+          //   language: undefined, // possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
+          // },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
