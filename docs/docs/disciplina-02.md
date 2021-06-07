@@ -24,7 +24,7 @@ slug: /angular
 - [15/05/2021 - Aula 01](/blog/5)
   - Introdução ao angular
   - Angular CLI
-- [29/05/2021 - Aula 01](/blog/6)
+- [29/05/2021 - Aula 02](/blog/6)
   - Rotas
   - Autenticação
   - Componentes
