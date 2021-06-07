@@ -25,7 +25,10 @@ slug: /angular
   - Introdução ao angular
   - Angular CLI
 - [29/05/2021 - Aula 01](/blog/6)
-  - ????
+  - Rotas
+  - Autenticação
+  - Componentes
+  - Validação de campos
 
 ## Materiais utilizados na disciplina
 15/05/2021
