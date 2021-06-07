@@ -4,9 +4,16 @@
         <title>Pós Web &amp; Dispositivos Móveis Blog</title>
         <link>https://pos-unipar.github.io/blog</link>
         <description>Pós Web &amp; Dispositivos Móveis Blog</description>
-        <lastBuildDate>Sat, 15 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#6 - Angular]]></title>
+            <link>https://pos-unipar.github.io/blog/6</link>
+            <guid>6</guid>
+            <pubDate>Sat, 29 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[29/05/2021 - Aula 2 de Angular (Presencial)]]></description>
+        </item>
         <item>
             <title><![CDATA[#5 - Angular]]></title>
             <link>https://pos-unipar.github.io/blog/5</link>
