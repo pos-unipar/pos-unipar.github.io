@@ -18,7 +18,7 @@ Lista de conteúdos apresentados na pós.
 |Nome|Carga horária|Professor|
 |-|-|-|
 |Android|40 horas| |
-|[Angular](./angular)|40 horas| |
+|[Angular](./angular)|40 horas|[Jean](/professores/jean) |
 |Banco de dados: SQL & NoSQL|30 horas| |
 |Desenvolvimento Back-End com JAVA|40 horas| |
 |Flutter|40 horas| |
@@ -37,4 +37,5 @@ Lista de conteúdos apresentados na pós.
 |27/03/2021|[HTML5, CSS3 e Javascript](./html-css-js)|Post no [blog](/blog/2)|
 |10/04/2021|[HTML5, CSS3 e Javascript](./html-css-js)|Post no [blog](/blog/3)|
 |24/04/2021|[HTML5, CSS3 e Javascript](./html-css-js)|Post no [blog](/blog/4)|
-|24/04/2021|[Angular](./angular)|Post no [blog](/blog/5)|
+|15/05/2021|[Angular](./angular)|Post no [blog](/blog/5)|
+|29/25/2021|[Angular](./angular)|Post no [blog](/blog/6)|
