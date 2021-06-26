@@ -122,6 +122,6 @@ Na [atividade 1](#atividade-1), utilizando ela como base faça:
 - Adicionar recurso de Drag/Drop para as noticias;
 
 ### Trabalho final
-> Página 1 do '[Máterial em PDF do trabalho](/docs/aula-4/trabalho.pdf)'
+> '[Máterial em PDF do trabalho](/docs/aula-4/trabalho.pdf)'
 
 ```Entregar até próxima aula, dia 08/05/2021```
