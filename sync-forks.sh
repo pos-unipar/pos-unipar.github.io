@@ -32,11 +32,11 @@ cd ./tmp
 #     "https://github.com/jfnandopr/jfnandopr-pos-unipar-html-css-js-atividade.git" \
 #     "main"
 
-update_fork \
-    "https://github.com/pos-unipar/app-unipar.git" \
-    "app-unipar" \
-    "https://github.com/jeanjunior/app-unipar.git" \
-    "master"
+# update_fork \
+#     "https://github.com/pos-unipar/app-unipar.git" \
+#     "app-unipar" \
+#     "https://github.com/jeanjunior/app-unipar.git" \
+#     "master"
 
 update_fork \
     "https://github.com/pos-unipar/app-unipar2.git" \

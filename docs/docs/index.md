@@ -39,3 +39,4 @@ Lista de conteúdos apresentados na pós.
 |24/04/2021|[HTML5, CSS3 e Javascript](./html-css-js)|Post no [blog](/blog/4)|
 |15/05/2021|[Angular](./angular)|Post no [blog](/blog/5)|
 |29/25/2021|[Angular](./angular)|Post no [blog](/blog/6)|
+|29/25/2021|[Angular](./angular)|Post no [blog](/blog/7)|

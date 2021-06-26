@@ -29,10 +29,17 @@ slug: /angular
   - Autenticação
   - Componentes
   - Validação de campos
+- [12/06/2021 - Aula 02](/blog/7)
+  - Marcara/Formatação de campos
+  - Gráficos
+  - Drag and Drop
+  - Seletores
 
 ## Materiais utilizados na disciplina
 15/05/2021
   - [Máterial em PDF aula 01](/docs/aula-5/angular.pdf)
+12/06/2021
+  - [Máterial em PDF aula 03](/docs/aula-7/angular-aula3.pdf)
 ## Atividades solicitadas para serem entregues
 
 Sem atividades
