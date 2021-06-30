@@ -1,1 +1,0 @@
-(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[801],{7522:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"blog","name":"blog","count":7,"permalink":"/blog/tags/blog"}')}}]);
