@@ -38,10 +38,16 @@ cd ./tmp
 #     "https://github.com/jeanjunior/app-unipar.git" \
 #     "master"
 
+# update_fork \
+#     "https://github.com/pos-unipar/app-unipar2.git" \
+#     "app-unipar2" \
+#     "https://github.com/jeanjunior/app-unipar2.git" \
+#     "main"
+
 update_fork \
-    "https://github.com/pos-unipar/app-unipar2.git" \
-    "app-unipar2" \
-    "https://github.com/jeanjunior/app-unipar2.git" \
+    "https://github.com/pos-unipar/app-unipar4.git" \
+    "app-unipar4" \
+    "https://github.com/jeanjunior/app-unipar4.git" \
     "main"
 
 # Sair da pasta tmp pra poder deletar ela
