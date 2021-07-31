@@ -40,3 +40,28 @@ slug: /banco-de-dados
     - [Máterial em PDF 04](/docs/aula-9/ARTIGO-Codd1970_RelationalModel.pdf) - ARTIGO-Codd1970_RelationalModel.pdf
 
 ## Atividades solicitadas para serem entregues
+
+
+### Atividade 1 
+
+> [Formulário online](https://docs.google.com/forms/d/17hIuwtWFqHDxC8TTlHgei17IzcSJO8xCUaR4cGdGqaQ/viewform?edit_requested=true)
+
+<details><summary>Transcrição</summary>
+<p>
+<small>
+A partir dos conceitos estudados, com base no material de apoio e consultas, pede-se a elaboração de um modelo físico (entidades, atributos, tipos e relacionamentos) de um banco de dados com tema livre.
+
+A atividade pode ser feita em grupos de até 5 pessoas. 
+
+Defina um tema no grupo, ou seja um “Minimundo”, descreva esse minimundo e implemente usando o StarUML (New File From Template -> 
+Data Model) o modelo físico adequado.
+
+Como não teremos os modelos conceituais nem o lógico para auxiliar, escolha um tema que vocês tenham domínio para permitir a construção adequada do modelo. 
+</small>
+</p>
+</details>  
+<br />
+
+```Entregue durante a aula```
+
+Download do projeto entregue: [Grupo-03.mdj](/docs/aula-9/Grupo-03.zip)
