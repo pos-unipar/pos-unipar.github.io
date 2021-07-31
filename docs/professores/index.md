@@ -17,7 +17,7 @@ keywords:
 |Alan Lira|Especialista||
 |Alexandro Patrick|Mestre||
 |Carlos Alberto Meier Basso|Mestre||
-|Fernando Rigo Botelho|Mestre||
+|Fernando Rigo Botelho|Mestre|[Banco de dados](../docs/banco-de-dados)|
 |Geferson Luis Simonette|Especialista||
 |Jemerson Fernando Maia|Especialista|[HTML, CSS e JS](../docs/html-css-js)|
 |Ricardo Grassi|Especialista||
