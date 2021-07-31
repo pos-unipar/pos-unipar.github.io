@@ -8,6 +8,7 @@ module.exports = {
         'index',
         'disciplina-01',
         'disciplina-02',
+        'disciplina-03',
       ],
     },
   ],
