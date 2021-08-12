@@ -19,7 +19,7 @@ Lista de conteúdos apresentados na pós.
 |-|-|-|
 |Android|40 horas| |
 |[Angular](./angular)|40 horas|[Jean](/professores/jean) |
-|Banco de dados: SQL & NoSQL|30 horas| |
+|[Banco de dados: SQL & NoSQL](./banco-de-dados)|30 horas|[Fernando](/professores/fernando) |
 |Desenvolvimento Back-End com JAVA|40 horas| |
 |Flutter|40 horas| |
 |[HTML5, CSS3 e Javascript](./html-css-js)|	30 horas|[Jemerson](/professores/jemerson) |
@@ -41,3 +41,4 @@ Lista de conteúdos apresentados na pós.
 |29/05/2021|[Angular](./angular)|Post no [blog](/blog/6)|
 |12/06/2021|[Angular](./angular)|Post no [blog](/blog/7)|
 |26/06/2021|[Angular](./angular)|Post no [blog](/blog/8)|
+|31/07/2021|[Banco de dados](./banco-de-dados)|Post no [blog](/blog/9)|

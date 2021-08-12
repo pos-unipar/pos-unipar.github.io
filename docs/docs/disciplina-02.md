@@ -12,7 +12,6 @@ keywords:
 slug: /angular
 ---
 
-<!-- Corrigir isso aqui depois -->
 **Professor**: [Jean](/professores/jean)
 
 ## Assuntos abordados
@@ -40,12 +39,13 @@ slug: /angular
   - Deploy
 
 ## Materiais utilizados na disciplina
-15/05/2021
+
+- 15/05/2021
   - [Máterial em PDF aula 01](/docs/aula-5/angular.pdf)
-12/06/2021
+- 12/06/2021
   - [Máterial em PDF aula 03](/docs/aula-7/angular-aula3.pdf)
   - [Trabalho](/docs/aula-7/trabalho.pdf)
-26/06/2021
+- 26/06/2021
   - [Máterial em PDF aula 04](/docs/aula-8/angular-aula4.pdf)
 
 ## Atividades solicitadas para serem entregues

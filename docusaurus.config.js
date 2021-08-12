@@ -10,6 +10,7 @@ module.exports = {
   organizationName: 'pos-unipar', // Usually your GitHub org/user name.
   projectName: 'pos-unipar.github.io', // Usually your repo name.
   themeConfig: {
+    hideableSidebar: true,
     navbar: {
       title: 'Pós Unipar',
       logo: {
@@ -234,6 +235,28 @@ module.exports = {
             content: '#ffffff',
           },
         ],
+      },
+    ],
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        docsRouteBasePath: [
+          "/docs",
+          "/info",
+        ],
+        hashed: true,
+        language: ["pt"],
+        highlightSearchTermsOnTargetPage: true,
+        translations: {
+          "search_placeholder": "Pesquisa",
+          "see_all_results": "Veja todos os resultados",
+          "no_results": "Sem resultados.",
+          "search_results_for": "Resultados da pesquisa para \"{{ keyword }}\"",
+          "search_the_documentation": "Pesquise",
+          "count_documents_found": "{{ count }} documento encontrado",
+          "count_documents_found_plural": "{{ count }} documentos encontrados",
+          "no_documents_were_found": "Nenhum resultado encontrado"
+        }
       },
     ],
   ],

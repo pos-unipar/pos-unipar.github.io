@@ -1,14 +1,15 @@
 module.exports = {
   docs: [
+    'index',
     {
       type: 'category',
       label: 'Professores',
       collapsed: false,
       items: [
-        'index',
         'geferson',
         'jemerson',
         'jean',
+        'fernando',
       ],
     },
   ],
