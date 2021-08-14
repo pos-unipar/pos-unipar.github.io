@@ -136,3 +136,22 @@ Para entregar, Anexo o script ou scripts no formulário
 ```Entregue durante a aula```
 
 Download do projeto entregue: [Grupo-03-Atividade03.DDL.sql](/docs/aula-10/Grupo-03-Atividade03.DDL.sql)  
+
+### Atividade 4 
+
+> [Formulário online](https://docs.google.com/forms/d/e/1FAIpQLScEAt5uRqNFKcbLUT8A2VYQur6ii42i698qlY7QdEiUeXGTVw/viewform)
+
+<details><summary>Transcrição</summary>
+<p>
+<small>
+A partir do banco criado na atividade anterior, execute as tarefas abaixo. .
+
+Para entregar, Respondo no próprio formulário as questões iniciais e anexe o script ou scripts na questão relacionada ao  banco criado.
+</small>
+</p>
+</details>  
+<br />
+
+```Entregue até 28/08/2021```
+
+Download do projeto entregue: [Grupo-03-Atividade04.DDL.sql](/docs/aula-10/Grupo-03-Atividade04.DDL.sql)  
