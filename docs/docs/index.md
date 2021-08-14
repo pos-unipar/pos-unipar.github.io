@@ -42,3 +42,4 @@ Lista de conteúdos apresentados na pós.
 |12/06/2021|[Angular](./angular)|Post no [blog](/blog/7)|
 |26/06/2021|[Angular](./angular)|Post no [blog](/blog/8)|
 |31/07/2021|[Banco de dados](./banco-de-dados)|Post no [blog](/blog/9)|
+|14/08/2021|[Banco de dados](./banco-de-dados)|Post no [blog](/blog/10)|

@@ -6,9 +6,9 @@ module.exports = {
       label: 'Conteúdos',
       collapsed: false,
       items: [
-        'disciplina-01',
-        'disciplina-02',
-        'disciplina-03',
+        'disciplina-1',
+        'disciplina-2',
+        'disciplina-3',
       ],
     },
   ],

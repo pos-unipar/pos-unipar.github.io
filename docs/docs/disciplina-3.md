@@ -1,5 +1,5 @@
 ---
-id: disciplina-03
+id: disciplina-3
 title: Banco de Dados
 hide_title: false
 hide_table_of_contents: false
@@ -25,7 +25,9 @@ slug: /banco-de-dados
   - Revisão Modelagem e conceitos fundamentais (Projeto, MER, DER, chaves, atributos, tipos)
   - SQL (DDL, DML)
   - JOINS (Inner, Cross, Left, Right e Full joins)
-- [14/08/2021 - Aula 02](#)
+- [14/08/2021 - Aula 02](/blog/10)
+  - DML
+  - INSERT, UPDATE e DELETE.
 - [28/08/2021 - Aula 03](#)
 
 
@@ -104,6 +106,33 @@ Obs2: Para fazer a modelagem e o como resolver o desafio proposto, utilize a cri
 
 ```Entregue até 14/08/2021```
 
-Download do projeto entregue: [Grupo-03-Atividade02-1.DDL.zip](/docs/aula-9/Grupo-03-Atividade02-1.DDL.zip)
-Download do projeto entregue: [Grupo-03-Atividade02-2.DDL.sql](/docs/aula-9/Grupo-03-Atividade02-2.DDL.sql)
-Download do projeto entregue: [Grupo-03-Atividade02-3.DDL.sql](/docs/aula-9/Grupo-03-Atividade02-3.DDL.sql)
+Download do projeto entregue: [Grupo-03-Atividade02-1.DDL.zip](/docs/aula-9/Grupo-03-Atividade02-1.DDL.zip)  
+Download do projeto entregue: [Grupo-03-Atividade02-2.DDL.sql](/docs/aula-9/Grupo-03-Atividade02-2.DDL.sql)  
+Download do projeto entregue: [Grupo-03-Atividade02-3.DDL.sql](/docs/aula-9/Grupo-03-Atividade02-3.DDL.sql)  
+
+
+### Atividade 3 
+
+> [Formulário online](https://docs.google.com/forms/d/e/1FAIpQLSfevDwHQGIxbBlHYIPDucF6SiD4H0bVx5qI3_b-3KSTKF9goQ/viewform)
+
+<details><summary>Transcrição</summary>
+<p>
+<small>
+INSTRUÇÕES:
+
+A partir dos modelos criados nas atividades anteriores, escolha um deles e crie os comandos DML para:
+- Inserir dados
+- Alterar dados
+- Excluir dados
+
+Busque utilizar variações na clausula WHERE, Sub Consultas, etc, conforme os exemplos em sala.
+
+Para entregar, Anexo o script ou scripts no formulário
+</small>
+</p>
+</details>  
+<br />
+
+```Entregue durante a aula```
+
+Download do projeto entregue: [Grupo-03-Atividade03.DDL.sql](/docs/aula-10/Grupo-03-Atividade03.DDL.sql)  

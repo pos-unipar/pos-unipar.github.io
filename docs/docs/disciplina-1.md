@@ -1,5 +1,5 @@
 ---
-id: disciplina-01
+id: disciplina-1
 title: HTML, CSS e JS
 hide_title: false
 hide_table_of_contents: false
