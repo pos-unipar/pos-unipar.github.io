@@ -1,5 +1,5 @@
 ---
-id: disciplina-02
+id: disciplina-2
 title: Angular
 hide_title: false
 hide_table_of_contents: false
