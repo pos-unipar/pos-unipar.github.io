@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[3519],{1635:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"banco-de-dados","name":"banco de dados","count":2,"permalink":"/blog/tags/banco-de-dados"}')}}]);

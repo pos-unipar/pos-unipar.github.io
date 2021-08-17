@@ -4,9 +4,16 @@
         <title>Pós Web &amp; Dispositivos Móveis Blog</title>
         <link>https://pos-unipar.github.io/blog</link>
         <description>Pós Web &amp; Dispositivos Móveis Blog</description>
-        <lastBuildDate>Sat, 31 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#10 - Banco de Dados]]></title>
+            <link>https://pos-unipar.github.io/blog/10</link>
+            <guid>10</guid>
+            <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[14/08/2021 - Aula 2 de Banco de dados (Remoto)]]></description>
+        </item>
         <item>
             <title><![CDATA[#9 - Banco de Dados]]></title>
             <link>https://pos-unipar.github.io/blog/9</link>
