@@ -167,6 +167,7 @@ Download do projeto entregue: [Grupo-03-Atividade04.DDL.sql](/docs/aula-10/Grupo
 <p>
 <small>
 CRIE AS SEGUINTES CONSULTAS (QUERIES):
+
 1 - Liste a data do pedido, data de entrega, nome do cliente e id dos produtos realizados empresa 01 no ano de 2021.
 
 2 - Liste o Id do pedido, id do produto, data do pedido e o nome do produto, dos pedidos realizados entre 01/07/2021 e 31/07/2021.
