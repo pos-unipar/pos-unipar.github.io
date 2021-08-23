@@ -40,6 +40,9 @@ slug: /banco-de-dados
     - [Máterial em PDF 02](/docs/aula-9/ARTIGO_TRADUCAO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf) - ARTIGO_TRADUCAO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf
     - [Máterial em PDF 03](/docs/aula-9/ARTIGO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf) - ARTIGO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf
     - [Máterial em PDF 04](/docs/aula-9/ARTIGO-Codd1970_RelationalModel.pdf) - ARTIGO-Codd1970_RelationalModel.pdf
+- 14/08/2021
+  - [Máterial em PDF](/docs/aula-10/Aula-02.01-BDs-14_08.pdf) - Slide 01 da Aula 2
+  - [Máterial em PDF](/docs/aula-10/Aula-02.02-BDs-14_08.pdf) - Slide 02 da Aula 2
 
 ## Atividades solicitadas para serem entregues
 
@@ -155,3 +158,52 @@ Para entregar, Respondo no próprio formulário as questões iniciais e anexe o 
 ```Entregue até 28/08/2021```
 
 Download do projeto entregue: [Grupo-03-Atividade04.DDL.sql](/docs/aula-10/Grupo-03-Atividade04.DDL.sql)  
+
+### Atividade 5 
+
+> [Formulário online](https://docs.google.com/forms/d/e/1FAIpQLScscLZGmlNnnaihODIXOh1PMXbdqcDeTEm25DoRI-aVF0cTOw/viewform)
+
+<details><summary>Transcrição</summary>
+<p>
+<small>
+CRIE AS SEGUINTES CONSULTAS (QUERIES):
+
+1 - Liste a data do pedido, data de entrega, nome do cliente e id dos produtos realizados empresa 01 no ano de 2021.
+
+2 - Liste o Id do pedido, id do produto, data do pedido e o nome do produto, dos pedidos realizados entre 01/07/2021 e 31/07/2021.
+
+3 - Liste os pedidos sem data de entrega definida, indicando id, data do pedido, nome do cliente e há quantos dias foi realizado.
+
+4 - A equipe do marketing solicitou uma listagem dos 100 clientes com mais quantidade de pedidos, listando as informações do cliente disponíveis no banco.
+
+5 - Em seguida, a equipe do marketing solicitou quais os produtos esses 100 clientes (questão 4) compraram nos últimos 730 dias. 
+
+6 - O gerente de compras da empresa precisa conferir algumas informações de produtos para corrigir os relatórios de compras. Ele solicitou uma listagem com os produtos sem categoria e as categorias que não estão sendo utilizada em nenhum produto. 
+
+7 - A empresa deseja fazer uma ação de recuperação dos clientes. O setor de marketing solicitou uma listagem com os dados disponíveis no sistema dos clientes que nunca compraram e os que já compraram porém a última compra foi a mais de 365 dias.
+
+8 - A equipe do marketing solicitou ao departamento uma listagem com os produtos mais vendidos por categoria.
+
+Pessoal da gestão de clientes e crediário esta fazendo uma análise da base de clientes, e solicitou as seguintes informações:
+
+9 - Quantos clientes existem na base por categoria
+
+10 - Quantos clientes existem na base por estado e exiba os 5 primeiros
+
+11 - Quantos clientes existem na base por cidade e exiba somente as que tiverem mais de 10 clientes
+
+12 - Quantos clientes existem na base por categoria e destes quantos nunca compraram
+
+13 - Quantos clientes existem na base por cidade e destes, quantos nunca compraram 
+  
+14 - A gerência de loja solicitou uma tela que trouxesse as informações principais dos produtos e seu preço atual. 
+
+15 - Crie uma consulta que retorne o id do pedido, data que foi feito, produto, quantidade, o valor praticado nessa época e o valor total do pedido 
+</small>
+</p>
+</details>  
+<br />
+
+```Entregue até 29/08/2021```
+
+Download do arquivo entregue: [DML.sql](/docs/aula-10/DML.sql)  
