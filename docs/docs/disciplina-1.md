@@ -16,6 +16,10 @@ slug: /html-css-js
 
 **Professor**: [Jemerson](/professores/jemerson)
 
+:::info Descrição do site da Unipar
+HTML5 e CSS3; Fundamentos de HTML5 e CSS3; Responsividade com Media Queries; Seletores; SASS; UX; Javascript; ES6;
+:::
+
 ## Assuntos abordados
 
 - HTML5 e CSS3;
