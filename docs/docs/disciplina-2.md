@@ -14,6 +14,10 @@ slug: /angular
 
 **Professor**: [Jean](/professores/jean)
 
+:::info Descrição do site da Unipar
+Arquitetura; Modules; Components; Routing & Navigation; HttpClient; Animations; Dependency Injection;
+:::
+
 ## Assuntos abordados
 
 - Angular;

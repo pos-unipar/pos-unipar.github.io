@@ -14,6 +14,9 @@ slug: /banco-de-dados
 
 **Professor**: [Fernando](/professores/fernando)
 
+:::info Descrição do site da Unipar
+Modelo Relacional; Banco de dados Relacional; Padrão SQL; Insert, Update, Delete e Select; Joins; Índices; Domínios; Triggers; Procedures; ACID; Bancos de dados Não relacionais; MongoDB; Estrutura de dados não relacionais; 
+:::
 ## Assuntos abordados
 
 - Banco de dados relacional;
@@ -28,22 +31,30 @@ slug: /banco-de-dados
 - [14/08/2021 - Aula 02](/blog/10)
   - DML
   - INSERT, UPDATE e DELETE.
-- [28/08/2021 - Aula 03](#)
+- [28/08/2021 - Aula 03](/blog/11)
+  - Domínios
+  - Transações
+  - Conversão de tipos
+  - Views
+  - Funções
+  - Triggers
 
 
 ## Materiais utilizados na disciplina
 - 31/07/2021
   - [Máterial em PDF](/docs/aula-9/Aula-01.01-BDs-31_07.pdf) - Slide 01 da Aula 1
   - [Máterial em PDF](/docs/aula-9/Aula-01.02-BDs-31_07.pdf) - Slide 02 da Aula 1
-  - Material complementar
+- 14/08/2021
+  - [Máterial em PDF](/docs/aula-10/Aula-02.01-BDs-14_08.pdf) - Slide 01 da Aula 2
+  - [Máterial em PDF](/docs/aula-10/Aula-02.02-BDs-14_08.pdf) - Slide 02 da Aula 2
+- 28/08/2021
+  - [Máterial em PDF](/docs/aula-11/Aula-03.01-BDs_28_08.pdf) - Slide 01 da Aula 3
+  - [Máterial em PDF](/docs/aula-11/Aula-03.02-Power_BI_28_08.pdf) - Slide 02 da Aula 3
+- Material complementar
     - [Máterial em PDF 01](/docs/aula-9/ARTIGO_TRADUCAO_RelationalModel.pdf) - ARTIGO_TRADUCAO_RelationalModel.pdf
     - [Máterial em PDF 02](/docs/aula-9/ARTIGO_TRADUCAO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf) - ARTIGO_TRADUCAO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf
     - [Máterial em PDF 03](/docs/aula-9/ARTIGO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf) - ARTIGO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf
     - [Máterial em PDF 04](/docs/aula-9/ARTIGO-Codd1970_RelationalModel.pdf) - ARTIGO-Codd1970_RelationalModel.pdf
-- 14/08/2021
-  - [Máterial em PDF](/docs/aula-10/Aula-02.01-BDs-14_08.pdf) - Slide 01 da Aula 2
-  - [Máterial em PDF](/docs/aula-10/Aula-02.02-BDs-14_08.pdf) - Slide 02 da Aula 2
-
 ## Atividades solicitadas para serem entregues
 
 
@@ -206,4 +217,6 @@ Pessoal da gestão de clientes e crediário esta fazendo uma análise da base de
 
 ```Entregue até 29/08/2021```
 
-Download do arquivo entregue: [DML.sql](/docs/aula-10/DML.sql)  
+Download do arquivo entregue: [DDL_banco_Atividade05.sql](/docs/aula-10/DDL_banco_Atividade05.sql)  
+Download do arquivo entregue: [DML_INSERT_banco_Atividade05.sql](/docs/aula-10/DML_INSERT_banco_Atividade05.sql)  
+Download do arquivo entregue: [Atividade05.DML.sql](/docs/aula-10/Atividade05.DML.sql)  
