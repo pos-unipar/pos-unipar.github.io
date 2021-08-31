@@ -220,3 +220,43 @@ Pessoal da gestão de clientes e crediário esta fazendo uma análise da base de
 Download do arquivo entregue: [DDL_banco_Atividade05.sql](/docs/aula-10/DDL_banco_Atividade05.sql)  
 Download do arquivo entregue: [DML_INSERT_banco_Atividade05.sql](/docs/aula-10/DML_INSERT_banco_Atividade05.sql)  
 Download do arquivo entregue: [Atividade05.DML.sql](/docs/aula-10/Atividade05.DML.sql)  
+
+### Trabalho final
+
+> [Formulário online](https://docs.google.com/forms/d/e/1FAIpQLSeoaUau0FLgRlavEGbE6XNPvXEwuSrMi80SdhG8aGUSX2lwVg/viewform)
+
+<details><summary>Transcrição</summary>
+<p>
+<small>
+INSTRUÇÕES:  
+
+Para finalizarmos nossa disciplina, vamos fazer um projeto que envolva praticamente todos os conceitos vistos. 
+
+A Atividade pode ser em grupo até 4 pessoas. Busquem organizar entre o grupos as tarefas.
+
+Deve-se entregar:
+- Modelo Físico do banco (mínimo 5 tabelas, focar nas principais)
+- Criação de ao menos 2 domínios e uso deles na criação do DDL, sendo UM com tipo e UM com constraint (CHECK)
+- Script DDL para criação
+- Script DML com os dados populados no banco (Pode gerar via backup do banco no PG_ADMIN)
+- Ao menos 1 VIEW
+- Ao menos 1 FUNÇÃO que envolva consulta em banco 
+- Ao menos 1 TRIGGER/gatilho que modifique ou faça inserção em uma tabela.
+- 10 consultas que utilizem os recursos estudados, como Inner Join, Left e right join, Group By, Having, Subconsulta, etc ou as funções e views criadas pelo grupo. Escreva o que se espera retornar antes da consulta.
+
+Os temas para o projeto são LIVRES. Sugestão é que busquem algo novo e diferente do que já estão habituados ou que seja um possível projeto novo na empresa ou para desenvolver durante o curso nas demais disciplinas.
+Algumas sugestões:
+- Controle de estatísticas de times de futebol
+- Pet Shop
+- Controle de assinaturas de bebidas
+- Portal de cursos on-line (informações administrativas ou as pedagógicas)
+- Portal de medalhas olímpicas
+- Gerenciar rotas de transporte
+
+Façam uma entrega por grupo, anexando os artefatos conforme o indicado em cada campo abaixo.
+</small>
+</p>
+</details>  
+<br />
+
+```Entregar até o dia 11/09/2021```

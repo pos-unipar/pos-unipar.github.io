@@ -128,4 +128,4 @@ Na [atividade 1](#atividade-1), utilizando ela como base faça:
 ### Trabalho final
 > '[Máterial em PDF do trabalho](/docs/aula-4/trabalho.pdf)'
 
-```Entregar até próxima aula, dia 08/05/2021```
+```Entregar até o dia 08/05/2021```
