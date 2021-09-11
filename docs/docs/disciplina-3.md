@@ -51,10 +51,12 @@ Modelo Relacional; Banco de dados Relacional; Padrão SQL; Insert, Update, Delet
   - [Máterial em PDF](/docs/aula-11/Aula-03.01-BDs_28_08.pdf) - Slide 01 da Aula 3
   - [Máterial em PDF](/docs/aula-11/Aula-03.02-Power_BI_28_08.pdf) - Slide 02 da Aula 3
 - Material complementar
-    - [Máterial em PDF 01](/docs/aula-9/ARTIGO_TRADUCAO_RelationalModel.pdf) - ARTIGO_TRADUCAO_RelationalModel.pdf
-    - [Máterial em PDF 02](/docs/aula-9/ARTIGO_TRADUCAO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf) - ARTIGO_TRADUCAO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf
-    - [Máterial em PDF 03](/docs/aula-9/ARTIGO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf) - ARTIGO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf
-    - [Máterial em PDF 04](/docs/aula-9/ARTIGO-Codd1970_RelationalModel.pdf) - ARTIGO-Codd1970_RelationalModel.pdf
+  - [Guia Disciplina](/doss/aula-9/Guia-Disciplina.pdf) - Guia com todas as orientacoes da disciplina.
+  - [Arquivo.sql](/docs/aula-11/Atividade05-CORRECAO.sql) - Atividade05 - CORRECAO.sql
+  - [Máterial em PDF 01](/docs/aula-9/ARTIGO_TRADUCAO_RelationalModel.pdf) - ARTIGO_TRADUCAO_RelationalModel.pdf
+  - [Máterial em PDF 02](/docs/aula-9/ARTIGO_TRADUCAO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf) - ARTIGO_TRADUCAO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf
+  - [Máterial em PDF 03](/docs/aula-9/ARTIGO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf) - ARTIGO-A_Comparative_Analysis_of_Entity-Relationship_Diagrams.pdf
+  - [Máterial em PDF 04](/docs/aula-9/ARTIGO-Codd1970_RelationalModel.pdf) - ARTIGO-Codd1970_RelationalModel.pdf
 ## Atividades solicitadas para serem entregues
 
 
@@ -260,3 +262,5 @@ Façam uma entrega por grupo, anexando os artefatos conforme o indicado em cada 
 <br />
 
 ```Entregar até o dia 11/09/2021```
+
+Download do arquivo entregue: [Trabalho.zip](/docs/aula-11/Trabalho.zip)  
