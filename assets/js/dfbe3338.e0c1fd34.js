@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[284],{788:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"backend-com-java","name":"backend com java","count":1,"permalink":"/blog/tags/backend-com-java"}')}}]);
