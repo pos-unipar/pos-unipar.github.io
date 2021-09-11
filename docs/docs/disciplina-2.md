@@ -14,6 +14,10 @@ slug: /angular
 
 **Professor**: [Jean](/professores/jean)
 
+:::info Descrição do site da Unipar
+Arquitetura; Modules; Components; Routing & Navigation; HttpClient; Animations; Dependency Injection;
+:::
+
 ## Assuntos abordados
 
 - Angular;
@@ -53,4 +57,4 @@ slug: /angular
 ### Trabalho final
 >'[Máterial em PDF do trabalho](/docs/aula-7/trabalho.pdf)'
 
-```Entregar até próxima aula, dia 03/07/2021```
+```Entregar até o dia 03/07/2021```

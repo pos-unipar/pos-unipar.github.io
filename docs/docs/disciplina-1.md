@@ -16,6 +16,10 @@ slug: /html-css-js
 
 **Professor**: [Jemerson](/professores/jemerson)
 
+:::info Descrição do site da Unipar
+HTML5 e CSS3; Fundamentos de HTML5 e CSS3; Responsividade com Media Queries; Seletores; SASS; UX; Javascript; ES6;
+:::
+
 ## Assuntos abordados
 
 - HTML5 e CSS3;
@@ -124,4 +128,4 @@ Na [atividade 1](#atividade-1), utilizando ela como base faça:
 ### Trabalho final
 > '[Máterial em PDF do trabalho](/docs/aula-4/trabalho.pdf)'
 
-```Entregar até próxima aula, dia 08/05/2021```
+```Entregar até o dia 08/05/2021```
