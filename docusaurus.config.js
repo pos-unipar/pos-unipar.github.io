@@ -14,7 +14,7 @@ module.exports = {
       // You can also use your "G-" Measurement ID here.
       trackingID: 'G-GL316DNCCY',
       // Optional fields.
-      anonymizeIP: true, // Should IPs be anonymized?
+      anonymizeIP: false, // Should IPs be anonymized?
     },
     hideableSidebar: true,
     navbar: {
