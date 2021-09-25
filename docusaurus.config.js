@@ -10,6 +10,12 @@ module.exports = {
   organizationName: 'pos-unipar', // Usually your GitHub org/user name.
   projectName: 'pos-unipar.github.io', // Usually your repo name.
   themeConfig: {
+    gtag: {
+      // You can also use your "G-" Measurement ID here.
+      trackingID: 'UA-141789564-1',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     hideableSidebar: true,
     navbar: {
       title: 'Pós Unipar',
@@ -262,18 +268,18 @@ module.exports = {
     // [
     //   '@docusaurus/plugin-google-analytics',
     // ],
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        themeConfig: {
-          gtag: {
-            // You can also use your "G-" Measurement ID here.
-            trackingID: 'UA-141789564-1',
-            // Optional fields.
-            anonymizeIP: true, // Should IPs be anonymized?
-          },
-        },
-      }
-    ],
+    // [
+    //   '@docusaurus/plugin-google-gtag',
+    //   {
+    //     themeConfig: {
+    //       gtag: {
+    //         // You can also use your "G-" Measurement ID here.
+    //         trackingID: 'UA-141789564-1',
+    //         // Optional fields.
+    //         anonymizeIP: true, // Should IPs be anonymized?
+    //       },
+    //     },
+    //   }
+    // ],
   ],
 };
