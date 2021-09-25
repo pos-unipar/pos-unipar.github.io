@@ -1122,7 +1122,7 @@
     "@docsearch/css" "3.0.0-alpha.40"
     "algoliasearch" "^4.0.0"
 
-"@docusaurus/core@^2.0.0-beta.4", "@docusaurus/core@2.0.0-beta.ff31de0ff":
+"@docusaurus/core@^2.0.0-beta.6", "@docusaurus/core@2.0.0-beta.ff31de0ff":
   "integrity" "sha512-+4Mmm5Zi1AvnFi0r/KfwSrXqOVQQPXQN610KcwrNsfXvq2QTR5O7QwXzUdZSERLQ183+iI1PD4x7bAiSSmwUBw=="
   "resolved" "https://registry.npmjs.org/@docusaurus/core/-/core-2.0.0-beta.ff31de0ff.tgz"
   "version" "2.0.0-beta.ff31de0ff"
@@ -1236,7 +1236,7 @@
     "url-loader" "^4.1.1"
     "webpack" "^5.37.0"
 
-"@docusaurus/plugin-content-blog@^2.0.0-beta.4", "@docusaurus/plugin-content-blog@2.0.0-beta.ff31de0ff":
+"@docusaurus/plugin-content-blog@^2.0.0-beta.6", "@docusaurus/plugin-content-blog@2.0.0-beta.ff31de0ff":
   "integrity" "sha512-abd9Fnqn7kYifIVUdYVwC9yeG2lEBFn3T0fNREplmrjtdNQUWfXx8hGMKOhigXmIzWjGdqtti3/2pLmRxomNIA=="
   "resolved" "https://registry.npmjs.org/@docusaurus/plugin-content-blog/-/plugin-content-blog-2.0.0-beta.ff31de0ff.tgz"
   "version" "2.0.0-beta.ff31de0ff"
@@ -1325,7 +1325,7 @@
   dependencies:
     "@docusaurus/core" "2.0.0-beta.ff31de0ff"
 
-"@docusaurus/plugin-pwa@^2.0.0-beta.4":
+"@docusaurus/plugin-pwa@^2.0.0-beta.6":
   "integrity" "sha512-gRARy1OW6ZbhZiS9OVHqsPWjMWHmZiC5neKp4Wn1Ws4IUzmRw2uI1s8iAkyw0EGVk+2sG7jV50Z1Hbt/kUXhuQ=="
   "resolved" "https://registry.npmjs.org/@docusaurus/plugin-pwa/-/plugin-pwa-2.0.0-beta.ff31de0ff.tgz"
   "version" "2.0.0-beta.ff31de0ff"
@@ -1359,7 +1359,7 @@
     "sitemap" "^7.0.0"
     "tslib" "^2.2.0"
 
-"@docusaurus/preset-classic@^2.0.0-beta.4":
+"@docusaurus/preset-classic@^2.0.0-beta.6":
   "integrity" "sha512-kXTtH1CygI7+jL/Tr2gQwGytE4IZti/Nep7f3p+i0I4euihMz90413CUHdp6/jx3HnrzcO5lPKAfdlZXbKh5Rw=="
   "resolved" "https://registry.npmjs.org/@docusaurus/preset-classic/-/preset-classic-2.0.0-beta.ff31de0ff.tgz"
   "version" "2.0.0-beta.ff31de0ff"
@@ -1451,7 +1451,7 @@
     "webpack" "^5.37.0"
     "webpack-merge" "^5.7.3"
 
-"@docusaurus/utils-validation@^2.0.0-beta.0", "@docusaurus/utils-validation@2.0.0-beta.ff31de0ff":
+"@docusaurus/utils-validation@^2.0.0-beta.4", "@docusaurus/utils-validation@2.0.0-beta.ff31de0ff":
   "integrity" "sha512-IcgA+nqQvCakMSCkf2Lxs5rVGRvBpgyhtq9O1XKGfFU30gxVgB2xySUxQrfzGcmCjJaZ8G8xtF7PD3BfB3pZiw=="
   "resolved" "https://registry.npmjs.org/@docusaurus/utils-validation/-/utils-validation-2.0.0-beta.ff31de0ff.tgz"
   "version" "2.0.0-beta.ff31de0ff"
@@ -1461,7 +1461,7 @@
     "joi" "^17.4.0"
     "tslib" "^2.1.0"
 
-"@docusaurus/utils@^2.0.0-beta.0", "@docusaurus/utils@2.0.0-beta.ff31de0ff":
+"@docusaurus/utils@^2.0.0-beta.4", "@docusaurus/utils@2.0.0-beta.ff31de0ff":
   "integrity" "sha512-Dr8qOjScfSVpMMxxb4UsEl2bReRMmflcsJ+gKwfx73lOvXFOcYF2+zF0h0Hy8PRzxiEhTBus7/6S0U8YoYNWvQ=="
   "resolved" "https://registry.npmjs.org/@docusaurus/utils/-/utils-2.0.0-beta.ff31de0ff.tgz"
   "version" "2.0.0-beta.ff31de0ff"
@@ -1484,13 +1484,13 @@
     "cssesc" "^3.0.0"
     "immediate" "^3.2.3"
 
-"@easyops-cn/docusaurus-search-local@^0.18.1":
-  "integrity" "sha512-QVvqmOtzhi+YjBSmTQlXkNkT3Y2+AuxKvNRZtinC9BUJAMcQgLkLAun8o11H9wA567nggqda11d7i5/mKFNOag=="
-  "resolved" "https://registry.npmjs.org/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.18.1.tgz"
-  "version" "0.18.1"
+"@easyops-cn/docusaurus-search-local@^0.19.1":
+  "integrity" "sha512-iBtFxP7y/eLuUABa7ODqn/RNcrWiao/LW5HiEjM56RR5hlOXjML5GmDwVdcazZHuPhR8K0sOjZE33vLRUFdCog=="
+  "resolved" "https://registry.npmjs.org/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.19.1.tgz"
+  "version" "0.19.1"
   dependencies:
-    "@docusaurus/utils" "^2.0.0-beta.0"
-    "@docusaurus/utils-validation" "^2.0.0-beta.0"
+    "@docusaurus/utils" "^2.0.0-beta.4"
+    "@docusaurus/utils-validation" "^2.0.0-beta.4"
     "@easyops-cn/autocomplete.js" "^0.38.1"
     "cheerio" "^1.0.0-rc.3"
     "clsx" "^1.1.1"
@@ -1603,7 +1603,7 @@
     "unist-builder" "2.0.3"
     "unist-util-visit" "2.0.3"
 
-"@mdx-js/react@^1.6.21":
+"@mdx-js/react@^1.6.21", "@mdx-js/react@^1.6.22":
   "integrity" "sha512-TDoPum4SHdfPiGSAaRBw7ECyI8VaHpK8GJugbJIJuqyh6kzw9ZLJZW3HGL3NNrJGxcAixUvqROm+YuQOo5eXtg=="
   "resolved" "https://registry.npmjs.org/@mdx-js/react/-/react-1.6.22.tgz"
   "version" "1.6.22"
@@ -7205,7 +7205,7 @@
     "strip-ansi" "6.0.0"
     "text-table" "0.2.0"
 
-"react-dom@^16.8.4 || ^17.0.0", "react-dom@^17.0.0 || ^16.3.0 || ^15.5.4", "react-dom@^17.0.1", "react-dom@>= 16.8.0 < 18.0.0":
+"react-dom@^16.8.4 || ^17.0.0", "react-dom@^17.0.0 || ^16.3.0 || ^15.5.4", "react-dom@^17.0.2", "react-dom@>= 16.8.0 < 18.0.0":
   "integrity" "sha512-s4h96KtLDUQlsENhMn1ar8t2bEa+q/YAtj8pPPdIjPDGBDIVNsrD9aXNWqspUe6AzKCIG0C1HZZLqLV7qpOBGA=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-17.0.2.tgz"
   "version" "17.0.2"
@@ -7318,7 +7318,7 @@
     "use-composed-ref" "^1.0.0"
     "use-latest" "^1.0.0"
 
-"react@*", "react@^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0", "react@^15.0.2 || ^16.0.0 || ^17.0.0", "react@^16.13.1 || ^17.0.0", "react@^16.3.0 || ^17.0.0", "react@^16.8.0 || ^17.0.0", "react@^16.8.4 || ^17.0.0", "react@^17.0.0 || ^16.3.0 || ^15.5.4", "react@^17.0.1", "react@>= 16.8.0 < 18.0.0", "react@>=0.14.9", "react@>=15", "react@>=16.3.0", "react@17.0.2":
+"react@*", "react@^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0", "react@^15.0.2 || ^16.0.0 || ^17.0.0", "react@^16.13.1 || ^17.0.0", "react@^16.3.0 || ^17.0.0", "react@^16.8.0 || ^17.0.0", "react@^16.8.4 || ^17.0.0", "react@^17.0.0 || ^16.3.0 || ^15.5.4", "react@^17.0.2", "react@>= 16.8.0 < 18.0.0", "react@>=0.14.9", "react@>=15", "react@>=16.3.0", "react@17.0.2":
   "integrity" "sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA=="
   "resolved" "https://registry.npmjs.org/react/-/react-17.0.2.tgz"
   "version" "17.0.2"
