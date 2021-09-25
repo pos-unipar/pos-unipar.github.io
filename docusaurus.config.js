@@ -12,7 +12,7 @@ module.exports = {
   themeConfig: {
     gtag: {
       // You can also use your "G-" Measurement ID here.
-      trackingID: 'UA-141789564-1',
+      trackingID: 'G-JDYPJCC287',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
