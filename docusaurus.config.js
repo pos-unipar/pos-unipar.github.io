@@ -10,6 +10,11 @@ module.exports = {
   organizationName: 'pos-unipar', // Usually your GitHub org/user name.
   projectName: 'pos-unipar.github.io', // Usually your repo name.
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-141789564-1',
+      // Optional fields.
+      anonymizeIP: false, // Should IPs be anonymized?
+    },
     hideableSidebar: true,
     navbar: {
       title: 'Pós Unipar',
@@ -258,6 +263,12 @@ module.exports = {
           "no_documents_were_found": "Nenhum resultado encontrado"
         }
       },
+    ],
+    [
+      '@docusaurus/plugin-google-analytics'
+    ],
+    [
+      '@docusaurus/plugin-google-gtag'
     ],
   ],
 };
