@@ -265,5 +265,16 @@ module.exports = {
         }
       },
     ],
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        gtag: {
+          // You can also use your "G-" Measurement ID here.
+          trackingID: 'G-SX07EGHQS4',
+          // Optional fields.
+          anonymizeIP: true, // Should IPs be anonymized?
+        },
+      },
+    ],
   ],
 };

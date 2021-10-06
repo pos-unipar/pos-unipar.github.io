@@ -30,6 +30,7 @@ Rest com Java; Jersey; Padrões de Projetos; Orientação a Objetos; Frameworks;
   - Design Orientado a Objetos
 - [25/09/2021 - Aula 02](/blog/13)
   - Spring
+  - Principio SOLID
 - [09/10/2021 - Aula 03](/blog/#)
 - [23/10/2021 - Aula 04](/blog/#)
 
@@ -38,6 +39,8 @@ Rest com Java; Jersey; Padrões de Projetos; Orientação a Objetos; Frameworks;
 - 11/09/2021
   - [Máterial em PDF aula 01](/docs/aula-12/Modulo-1-Orientacao-a-Objetos.pdf)
   - [Máterial de apoio em PDF aula 01](/docs/aula-12/Modulo_1_Material_de_Apoio.pdf)
+- 25/09/2021
+  - [Máterial adicional em PDF aula 02](/docs/aula-13/Modulo_1_Material_Adicional.pdf)
 
 ## Atividades solicitadas para serem entregues
 
@@ -47,19 +50,18 @@ Rest com Java; Jersey; Padrões de Projetos; Orientação a Objetos; Frameworks;
 
 <details><summary>Grupos do trabalho</summary>
 
-Integrante 1|Integrante 2|Integrante 3 (opcional)|
-|-|-|-|
-Lucas Baccan|João Kirst| |
-Simon|Henrique| |
-William Schanoski|Stéfano| |
-Bruno Henrique Pereira Szczuk|Jader Hericks Anschau| |
-Matheus Gobo|Everton Busse| |
-Sergio Schulz|Lucas Martins| |
-Victor Paro|Matheus Ferreira| |
-Thiago Crestani|Riquelmy| |
-Kevin Santos|Adriel Schneider| |
-Bruno Reolon|Gabriel Sementino| |
-Arnoldo Gonçalves de Lima Junior|Luiz Fernando Brogliatto Ferreira| |
+Equipe|Integrante 1|Integrante 2|Integrante 3 (opcional)|
+|-|-|-|-|
+1|William Schanoski|Stéfano| |
+2|Sergio Schulz|Lucas Martins| |
+3|Matheus Gobo|Everton Busse| |
+4|Bruno Henrique Pereira Szczuk|Jader Hericks Anschau| |
+5|Kevin Santos|Adriel Schneider| |
+6|Simon|Henrique| |
+7|Thiago Crestani|Riquelmy| |
+8|Bruno Reolon|Gabriel Sementino| |
+9|Victor Paro|Matheus Ferreira| |
+10|Lucas Baccan|João Kirst|Luiz Fernando Brogliatto Ferreira|
 
 <!-- ![Turmas](/docs/aula-12/turmas_trabalho.png) -->
 </details>  
