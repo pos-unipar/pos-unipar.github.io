@@ -14,7 +14,7 @@ module.exports = {
       // You can also use your "G-" Measurement ID here.
       trackingID: 'G-GL316DNCCY',
       // Optional fields.
-      anonymizeIP: false, // Should IPs be anonymized?
+      anonymizeIP: true, // Should IPs be anonymized?
     },
     hideableSidebar: true,
     navbar: {
@@ -265,21 +265,5 @@ module.exports = {
         }
       },
     ],
-    // [
-    //   '@docusaurus/plugin-google-analytics',
-    // ],
-    // [
-    //   '@docusaurus/plugin-google-gtag',
-    //   {
-    //     themeConfig: {
-    //       gtag: {
-    //         // You can also use your "G-" Measurement ID here.
-    //         trackingID: 'UA-141789564-1',
-    //         // Optional fields.
-    //         anonymizeIP: true, // Should IPs be anonymized?
-    //       },
-    //     },
-    //   }
-    // ],
   ],
 };

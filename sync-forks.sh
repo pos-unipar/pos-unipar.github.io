@@ -44,10 +44,22 @@ cd ./tmp
 #     "https://github.com/jeanjunior/app-unipar2.git" \
 #     "main"
 
+# update_fork \
+#     "https://github.com/pos-unipar/app-unipar4.git" \
+#     "app-unipar4" \
+#     "https://github.com/jeanjunior/app-unipar4.git" \
+#     "main"
+
 update_fork \
-    "https://github.com/pos-unipar/app-unipar4.git" \
-    "app-unipar4" \
-    "https://github.com/jeanjunior/app-unipar4.git" \
+    "https://github.com/pos-unipar/unipar-2021-trabalho-plano.git" \
+    "unipar-2021-trabalho-plano" \
+    "https://github.com/djonathanb/unipar-2021-trabalho-plano.git" \
+    "main"
+
+update_fork \
+    "https://github.com/pos-unipar/unipar-2021-aula-2.git" \
+    "unipar-2021-aula-2" \
+    "https://github.com/djonathanb/unipar-2021-aula-2.git" \
     "main"
 
 # Sair da pasta tmp pra poder deletar ela
