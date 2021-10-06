@@ -12,7 +12,7 @@ module.exports = {
   themeConfig: {
     gtag: {
       // You can also use your "G-" Measurement ID here.
-      trackingID: 'G-SX07EGHQS4',
+      trackingID: 'G-GL316DNCCY',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
@@ -263,17 +263,6 @@ module.exports = {
           "count_documents_found_plural": "{{ count }} documentos encontrados",
           "no_documents_were_found": "Nenhum resultado encontrado"
         }
-      },
-    ],
-    [
-      '@docusaurus/plugin-google-gtag',
-      {
-        gtag: {
-          // You can also use your "G-" Measurement ID here.
-          trackingID: 'G-SX07EGHQS4',
-          // Optional fields.
-          anonymizeIP: true, // Should IPs be anonymized?
-        },
       },
     ],
   ],
