@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pos-unipar.github.io/blog</id>
     <title>Pós Web &amp; Dispositivos Móveis Blog</title>
-    <updated>2021-09-11T00:00:00.000Z</updated>
+    <updated>2021-09-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pos-unipar.github.io/blog"/>
     <subtitle>Pós Web &amp; Dispositivos Móveis Blog</subtitle>
     <icon>https://pos-unipar.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#13 - Backend com Java]]></title>
+        <id>13</id>
+        <link href="https://pos-unipar.github.io/blog/13"/>
+        <updated>2021-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[25/09/2021 - Aula 2 de Backend com Java (Remoto)]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#12 - Backend com Java]]></title>
         <id>12</id>
