@@ -23,6 +23,9 @@ Rest com Java; Jersey; Padrões de Projetos; Orientação a Objetos; Frameworks;
 
 - Backend com Java;
 - Kotlin;
+- Principio SOLID;
+- API
+- API REST
 
 ## Calendário
 
@@ -32,6 +35,8 @@ Rest com Java; Jersey; Padrões de Projetos; Orientação a Objetos; Frameworks;
   - Spring
   - Principio SOLID
 - [09/10/2021 - Aula 03](/blog/#)
+  - APIs
+  - API REST
 - [23/10/2021 - Aula 04](/blog/#)
 
 ## Materiais utilizados na disciplina
@@ -41,6 +46,13 @@ Rest com Java; Jersey; Padrões de Projetos; Orientação a Objetos; Frameworks;
   - [Máterial de apoio em PDF aula 01](/docs/aula-12/Modulo_1_Material_de_Apoio.pdf)
 - 25/09/2021
   - [Máterial adicional em PDF aula 02](/docs/aula-13/Modulo_1_Material_Adicional.pdf)
+- 11/09/2021
+   - [Máterial em PDF aula 03](/docs/aula-14/Modulo_2_REST_APIs.pdf)
+
+## Repositorios (Forks)
+- [unipar-2021-pos-backend-plano](https://github.com/pos-unipar/unipar-2021-pos-backend-plano)
+- [unipar-2021-aula-2](https://github.com/pos-unipar/unipar-2021-aula-2)
+- [unipar-2021-trabalho-plano](https://github.com/pos-unipar/unipar-2021-trabalho-plano)
 
 ## Atividades solicitadas para serem entregues
 

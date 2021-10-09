@@ -52,6 +52,12 @@ Arquitetura; Modules; Components; Routing & Navigation; HttpClient; Animations; 
 - 26/06/2021
   - [Máterial em PDF aula 04](/docs/aula-8/angular-aula4.pdf)
 
+## Repositorios (Forks)
+- [app-unipar](https://github.com/pos-unipar/app-unipar)
+- [app-unipar2](https://github.com/pos-unipar/app-unipar2)
+- [app-unipar4](https://github.com/pos-unipar/app-unipar4)
+- [angular-trabalho-posunipar](https://github.com/pos-unipar/angular-trabalho-posunipar)
+
 ## Atividades solicitadas para serem entregues
 
 ### Trabalho final
