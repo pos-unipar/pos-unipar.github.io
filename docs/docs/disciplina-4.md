@@ -34,7 +34,7 @@ Rest com Java; Jersey; Padrões de Projetos; Orientação a Objetos; Frameworks;
 - [25/09/2021 - Aula 02](/blog/13)
   - Spring
   - Principio SOLID
-- [09/10/2021 - Aula 03](/blog/#)
+- [09/10/2021 - Aula 03](/blog/14)
   - APIs
   - API REST
 - [23/10/2021 - Aula 04](/blog/#)
