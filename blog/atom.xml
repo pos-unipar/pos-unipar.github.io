@@ -2,17 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pos-unipar.github.io/blog</id>
     <title>Pós Web &amp; Dispositivos Móveis Blog</title>
-    <updated>2021-09-25T00:00:00.000Z</updated>
+    <updated>2021-10-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pos-unipar.github.io/blog"/>
     <subtitle>Pós Web &amp; Dispositivos Móveis Blog</subtitle>
     <icon>https://pos-unipar.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#14 - Backend com Java]]></title>
+        <id>14</id>
+        <link href="https://pos-unipar.github.io/blog/14"/>
+        <updated>2021-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[09/10/2021 - Aula 3 de Backend com Java (Presencial)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#13 - Backend com Java]]></title>
         <id>13</id>
         <link href="https://pos-unipar.github.io/blog/13"/>
         <updated>2021-09-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[25/09/2021 - Aula 2 de Backend com Java (Remoto)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#12 - Backend com Java]]></title>
@@ -20,6 +35,10 @@
         <link href="https://pos-unipar.github.io/blog/12"/>
         <updated>2021-09-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[11/09/2021 - Aula 1 de Backend com Java (Presencial)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#11 - Banco de Dados]]></title>
@@ -27,6 +46,10 @@
         <link href="https://pos-unipar.github.io/blog/11"/>
         <updated>2021-08-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[28/08/2021 - Aula 3 de Banco de dados (Presencial)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#10 - Banco de Dados]]></title>
@@ -34,6 +57,10 @@
         <link href="https://pos-unipar.github.io/blog/10"/>
         <updated>2021-08-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[14/08/2021 - Aula 2 de Banco de dados (Remoto)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#9 - Banco de Dados]]></title>
@@ -41,6 +68,10 @@
         <link href="https://pos-unipar.github.io/blog/9"/>
         <updated>2021-07-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[31/07/2021 - Aula 1 de Banco de dados (Remoto)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#8 - Angular]]></title>
@@ -48,6 +79,10 @@
         <link href="https://pos-unipar.github.io/blog/8"/>
         <updated>2021-06-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[26/06/2021 - Aula 4 de Angular (Remoto)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#7 - Angular]]></title>
@@ -55,6 +90,10 @@
         <link href="https://pos-unipar.github.io/blog/7"/>
         <updated>2021-06-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[12/06/2021 - Aula 3 de Angular (Remoto)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#6 - Angular]]></title>
@@ -62,6 +101,10 @@
         <link href="https://pos-unipar.github.io/blog/6"/>
         <updated>2021-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[29/05/2021 - Aula 2 de Angular (Presencial)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#5 - Angular]]></title>
@@ -69,6 +112,10 @@
         <link href="https://pos-unipar.github.io/blog/5"/>
         <updated>2021-05-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[15/05/2021 - Aula 1 de Angular (Presencial)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#4 - HTML5, CSS3 e ES6]]></title>
@@ -76,6 +123,10 @@
         <link href="https://pos-unipar.github.io/blog/4"/>
         <updated>2021-04-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[24/04/2021 - Aula 3 de HTML5, CSS3 e ES6 (Remoto)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#3 - HTML5, CSS3 e ES6]]></title>
@@ -83,6 +134,10 @@
         <link href="https://pos-unipar.github.io/blog/3"/>
         <updated>2021-04-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[10/04/2021 - Aula 2 de HTML5, CSS3 e ES6 (Remoto)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#2 - HTML5, CSS3 e ES6]]></title>
@@ -90,6 +145,10 @@
         <link href="https://pos-unipar.github.io/blog/2"/>
         <updated>2021-03-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[27/03/2021 - Aula 1 de HTML5, CSS3 e ES6 (Remoto)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[#1 - Aula introdutoria]]></title>
@@ -97,5 +156,9 @@
         <link href="https://pos-unipar.github.io/blog/1"/>
         <updated>2021-03-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[13/03/2021 - Aula introdutoria  (Presencial/Remoto)]]></summary>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
     </entry>
 </feed>

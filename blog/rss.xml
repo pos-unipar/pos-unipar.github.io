@@ -4,9 +4,16 @@
         <title>Pós Web &amp; Dispositivos Móveis Blog</title>
         <link>https://pos-unipar.github.io/blog</link>
         <description>Pós Web &amp; Dispositivos Móveis Blog</description>
-        <lastBuildDate>Sat, 25 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#14 - Backend com Java]]></title>
+            <link>https://pos-unipar.github.io/blog/14</link>
+            <guid>14</guid>
+            <pubDate>Sat, 09 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[09/10/2021 - Aula 3 de Backend com Java (Presencial)]]></description>
+        </item>
         <item>
             <title><![CDATA[#13 - Backend com Java]]></title>
             <link>https://pos-unipar.github.io/blog/13</link>
