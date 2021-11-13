@@ -45,3 +45,5 @@ Lista de conteúdos apresentados na pós.
 |14/08/2021|[Banco de dados](./banco-de-dados)|Post no [blog](/blog/10)|
 |28/08/2021|[Banco de dados](./banco-de-dados)|Post no [blog](/blog/11)|
 |11/09/2021|[Backend com Java](./backend-java)|Post no [blog](/blog/12)|
+|25/09/2021|[Backend com Java](./backend-java)|Post no [blog](/blog/13)|
+|09/10/2021|[Backend com Java](./backend-java)|Post no [blog](/blog/14)|

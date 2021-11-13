@@ -60,6 +60,9 @@ HTML5 e CSS3; Fundamentos de HTML5 e CSS3; Responsividade com Media Queries; Sel
   - [Máterial em PDF aula 03](/docs/aula-4/aula-03.pdf)
   - [Trabalho](/docs/aula-4/trabalho.pdf)
 
+## Repositorios (Forks)
+- [jfnandopr-pos-unipar-html-css-js-atividade](https://github.com/pos-unipar/jfnandopr-pos-unipar-html-css-js-atividade)
+
 ## Atividades solicitadas para serem entregues
 
 ### Atividade 1 
