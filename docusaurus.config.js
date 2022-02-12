@@ -10,12 +10,6 @@ module.exports = {
   organizationName: 'pos-unipar', // Usually your GitHub org/user name.
   projectName: 'pos-unipar.github.io', // Usually your repo name.
   themeConfig: {
-    gtag: {
-      // You can also use your "G-" Measurement ID here.
-      trackingID: 'G-GL316DNCCY',
-      // Optional fields.
-      anonymizeIP: true, // Should IPs be anonymized?
-    },
     hideableSidebar: true,
     navbar: {
       title: 'Pós Unipar',
@@ -142,6 +136,12 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        gtag: {
+          // You can also use your "G-" Measurement ID here.
+          trackingID: 'G-GL316DNCCY',
+          // Optional fields.
+          anonymizeIP: true, // Should IPs be anonymized?
         },
       },
     ],
