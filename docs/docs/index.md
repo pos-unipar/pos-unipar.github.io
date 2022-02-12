@@ -17,12 +17,12 @@ Lista de conteúdos apresentados na pós.
 
 |Nome|Carga horária|Professor|
 |-|-|-|
-|Android|40 horas| |
+|[HTML5, CSS3 e Javascript](./html-css-js)|	30 horas|[Jemerson](/professores/jemerson) |
 |[Angular](./angular)|40 horas|[Jean](/professores/jean) |
 |[Banco de dados: SQL & NoSQL](./banco-de-dados)|30 horas|[Fernando](/professores/fernando) |
 |[Backend com JAVA](./backend-java)|40 horas|[Djonathan](/professores/djonathan)|
+|Android|40 horas| |
 |Flutter|40 horas| |
-|[HTML5, CSS3 e Javascript](./html-css-js)|	30 horas|[Jemerson](/professores/jemerson) |
 |Node.js|40 horas| |
 |Progressive web apps|30 horas| |
 |Python|30 horas| |
@@ -47,3 +47,4 @@ Lista de conteúdos apresentados na pós.
 |11/09/2021|[Backend com Java](./backend-java)|Post no [blog](/blog/12)|
 |25/09/2021|[Backend com Java](./backend-java)|Post no [blog](/blog/13)|
 |09/10/2021|[Backend com Java](./backend-java)|Post no [blog](/blog/14)|
+|13/11/2021|[Backend com Java](./backend-java)|Post no [blog](/blog/15)|
