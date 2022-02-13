@@ -39,7 +39,8 @@ Rest com Java; Jersey; Padrões de Projetos; Orientação a Objetos; Frameworks;
   - API REST
   - JSON
   - HTTP
-- [13/11/2021 - Aula 04](/blog/#)
+- [13/11/2021 - Aula 04](/blog/15)
+  - HTTP
 
 ## Materiais utilizados na disciplina
 

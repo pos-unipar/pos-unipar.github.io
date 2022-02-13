@@ -11,6 +11,7 @@ module.exports = {
         'jean',
         'fernando',
         'djonathan',
+        'paulo',
       ],
     },
   ],

@@ -23,3 +23,4 @@ keywords:
 |Ricardo Grassi|Especialista||
 |Jean Junior Heldt|Especialista|[Angular](../docs/angular)|
 |Djonathan Barros|Mestre|[Backend com Java](../docs/backend-java)|
+|Paulo Henrique P. dos Santos|Mestre|[Android](../docs/android)|
