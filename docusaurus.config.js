@@ -55,6 +55,10 @@ module.exports = {
               href: 'https://pos.unipar.br/especializacao/desenvolvimento-de-aplicacoes-web-e-mobile/toledo',
             },
             {
+              label: 'Site da pós (Archive)',
+              href: 'https://web.archive.org/web/20210420002821/https://pos.unipar.br/especializacao/desenvolvimento-de-aplicacoes-web-e-mobile/toledo',
+            },
+            {
               label: 'Aluno online',
               href: 'https://aluno.unipar.br/',
             },
@@ -189,9 +193,9 @@ module.exports = {
       {
         debug: false,
         offlineModeActivationStrategies: [
-          'appInstalled',
+          // 'appInstalled',
           'standalone',
-          'queryString',
+          // 'queryString',
         ],
         pwaHead: [
           {
