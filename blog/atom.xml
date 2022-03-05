@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pos-unipar.github.io/blog</id>
     <title>Pós Web &amp; Dispositivos Móveis Blog</title>
-    <updated>2022-02-19T00:00:00.000Z</updated>
+    <updated>2022-03-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pos-unipar.github.io/blog"/>
     <subtitle>Pós Web &amp; Dispositivos Móveis Blog</subtitle>
     <icon>https://pos-unipar.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#18 - Android]]></title>
+        <id>18</id>
+        <link href="https://pos-unipar.github.io/blog/18"/>
+        <updated>2022-03-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[05/03/2022 - Aula 3 de Android (Presencial)]]></summary>
+        <content type="html"><![CDATA[<p><strong>05/03/2022 - Aula 3 de Android</strong> (Presencial)</p><p>O Professor <a href="/professores/paulo">Paulo</a> começa a aula as 08:25h, atrasado novamente.</p><p>Começamos a aula revisando o que foi feito na aula anterior, e vamos implementar banco de dados, para isso vai ser utilizado o <a href="https://github.com/chennaione/sugar" target="_blank" rel="noopener noreferrer">Sugar ORM</a>. Seguimos a documentação do Sugar para configurar o banco de dados no projeto.</p><p>Criamos um DAO para o Aluno, com os métodos de CRUD. Evamos para o um intervalo as 9:50.</p><p>Após o intervalo, implementamos o snackbar para notificar se deu certo ou não salvar o Aluno.</p><p>A aula voltou a tarde, 20 minutos atrasada, começando as 13:50.</p><p>A aula continua com o desenvolvimento da tela que vai listar todos os alunos cadastrados.</p><p>Com isso terminamos a aula de hoje, as 17h, 1h mais cedo do que deveria.</p>]]></content>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="unipar" term="unipar"/>
+        <category label="05/03/2022" term="05/03/2022"/>
+        <category label="03/2022" term="03/2022"/>
+        <category label="2022" term="2022"/>
+        <category label="paulo" term="paulo"/>
+        <category label="android" term="android"/>
+        <category label="presencial" term="presencial"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#17 - Android]]></title>
         <id>17</id>

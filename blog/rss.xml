@@ -4,9 +4,25 @@
         <title>Pós Web &amp; Dispositivos Móveis Blog</title>
         <link>https://pos-unipar.github.io/blog</link>
         <description>Pós Web &amp; Dispositivos Móveis Blog</description>
-        <lastBuildDate>Sat, 19 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#18 - Android]]></title>
+            <link>https://pos-unipar.github.io/blog/18</link>
+            <guid>18</guid>
+            <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[05/03/2022 - Aula 3 de Android (Presencial)]]></description>
+            <content:encoded><![CDATA[<p><strong>05/03/2022 - Aula 3 de Android</strong> (Presencial)</p><p>O Professor <a href="/professores/paulo">Paulo</a> começa a aula as 08:25h, atrasado novamente.</p><p>Começamos a aula revisando o que foi feito na aula anterior, e vamos implementar banco de dados, para isso vai ser utilizado o <a href="https://github.com/chennaione/sugar" target="_blank" rel="noopener noreferrer">Sugar ORM</a>. Seguimos a documentação do Sugar para configurar o banco de dados no projeto.</p><p>Criamos um DAO para o Aluno, com os métodos de CRUD. Evamos para o um intervalo as 9:50.</p><p>Após o intervalo, implementamos o snackbar para notificar se deu certo ou não salvar o Aluno.</p><p>A aula voltou a tarde, 20 minutos atrasada, começando as 13:50.</p><p>A aula continua com o desenvolvimento da tela que vai listar todos os alunos cadastrados.</p><p>Com isso terminamos a aula de hoje, as 17h, 1h mais cedo do que deveria.</p>]]></content:encoded>
+            <category>blog</category>
+            <category>unipar</category>
+            <category>05/03/2022</category>
+            <category>03/2022</category>
+            <category>2022</category>
+            <category>paulo</category>
+            <category>android</category>
+            <category>presencial</category>
+        </item>
         <item>
             <title><![CDATA[#17 - Android]]></title>
             <link>https://pos-unipar.github.io/blog/17</link>
