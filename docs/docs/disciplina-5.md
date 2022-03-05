@@ -25,16 +25,15 @@ Introdução ao desenvolvimento com Android; Intents; Activitys; SQLITE; Retrofi
 
 ## Calendário
 
-- [12/02/2022 - Aula 01](/blog/12)
+- [12/02/2022 - Aula 01](/blog/16)
   - Introdução ao Android
-- [19/02/2022 - Aula 02](/blog/#)
+- [19/02/2022 - Aula 02](/blog/17)
+  - Continuação da construção da tela iniciada na aula 01
 - [05/03/2022 - Aula 01](/blog/#)
 - [12/03/2022 - Aula 01](/blog/#)
 
-## Materiais utilizados na disciplina
-
-- 12/02/2022
-  - 
+## Repositorios (Forks)
+- [unipar](https://github.com/pos-unipar/unipar)
 
 ## Atividades solicitadas para serem entregues
 
