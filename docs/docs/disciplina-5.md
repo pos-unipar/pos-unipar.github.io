@@ -39,6 +39,7 @@ Introdução ao desenvolvimento com Android; Intents; Activitys; SQLITE; Retrofi
 ### Trabalho final
 
 > [Google Classroom](https://classroom.google.com/u/0/c/NDc2Nzk1MzQ0ODIy/a/NDc2Nzk1MzQ0OTc0/details)
+**Codigo**: wx3qump
 
 <details><summary>Transcrição</summary>
 <p>
@@ -68,6 +69,4 @@ OBS1: Layout fica livre para cada um.
 
 ```Entregar até o dia 27/03/2022```
 
-A entrega deve ser feita pelo Google Classroom(wx3qump)
-
-Google Class Room 
+A entrega deve ser feita pelo Google Classroom.
