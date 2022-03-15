@@ -30,11 +30,44 @@ Introdução ao desenvolvimento com Android; Intents; Activitys; SQLITE; Retrofi
 - [19/02/2022 - Aula 02](/blog/17)
   - Continuação da construção da tela iniciada na aula 01
 - [05/03/2022 - Aula 01](/blog/18)
-- [12/03/2022 - Aula 01](/blog/#)
+  - Integração com Banco de dados
+- [12/03/2022 - Aula 01](/blog/19)
 
 ## Repositorios (Forks)
-- [unipar](https://github.com/pos-unipar/unipar)
-
-## Atividades solicitadas para serem entregues
+- [unipar-CadastroAlunos](https://github.com/pos-unipar/unipar-CadastroAlunos)
 
 ### Trabalho final
+
+> [Google Classroom](https://classroom.google.com/u/0/c/NDc2Nzk1MzQ0ODIy/a/NDc2Nzk1MzQ0OTc0/details)
+
+<details><summary>Transcrição</summary>
+<p>
+<small>
+Trabalho para fazer em duplas, entregar dia 27/03. Enviar o link do git do projeto bem como o nome completo da dupla.
+
+Desenvolver um app para controle de notas e frequências com base no projeto [unipar-CadastroAlunos](https://github.com/pos-unipar/unipar-CadastroAlunos).
+Deverá conter as seguintes funcionalidades:
+- Cadastro de alunos (já implementado).
+- Cadastro de professores
+- Cadastro de disciplinas
+- Cadastro de turmas (ex. 1 º ano de ADS, Alunos(...)  e Disciplinas(...))
+- Lançamento de notas
+- Lançamento de frequência
+- Exibir aprovação ou reprovação por notas (média 6.0).
+- Exibir aprovação ou reprovação por frequência (não pode passar de 30% de faltas).
+- Média de nota é 6,0;
+- Faltas não pode passar de 30%
+- Definir o regime da turma se é Anual ou Semestral
+
+OBS1: Layout fica livre para cada um.
+
+</small>
+</p>
+</details>  
+<br />
+
+```Entregar até o dia 27/03/2022```
+
+A entrega deve ser feita pelo Google Classroom(wx3qump)
+
+Google Class Room 
