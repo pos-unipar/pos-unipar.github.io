@@ -52,7 +52,7 @@ Rest com Java; Jersey; Padrões de Projetos; Orientação a Objetos; Frameworks;
 - 11/09/2021
    - [Máterial em PDF aula 03](/docs/aula-14/Modulo_2_REST_APIs.pdf)
 
-## Repositorios (Forks)
+## Repositórios (Forks)
 - [unipar-2021-pos-backend-plano](https://github.com/pos-unipar/unipar-2021-pos-backend-plano)
 - [unipar-2021-aula-2](https://github.com/pos-unipar/unipar-2021-aula-2)
 - [unipar-2021-trabalho-plano](https://github.com/pos-unipar/unipar-2021-trabalho-plano)

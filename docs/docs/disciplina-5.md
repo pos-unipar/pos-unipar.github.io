@@ -32,14 +32,15 @@ Introdução ao desenvolvimento com Android; Intents; Activitys; SQLITE; Retrofi
 - [05/03/2022 - Aula 03](/blog/18)
   - Integração com Banco de dados
 - [12/03/2022 - Aula 04](/blog/19)
+  - Trabalho final
 
-## Repositorios (Forks)
+## Repositórios (Forks)
 - [unipar-CadastroAlunos](https://github.com/pos-unipar/unipar-CadastroAlunos)
 
 ### Trabalho final
 
 > [Google Classroom](https://classroom.google.com/u/0/c/NDc2Nzk1MzQ0ODIy/a/NDc2Nzk1MzQ0OTc0/details)
-**Codigo**: wx3qump
+**Código**: wx3qump
 
 <details><summary>Transcrição</summary>
 <p>

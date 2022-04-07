@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/mochilaSmall.svg',
     description: (
       <>
-        Projeto desenvolvido para centralizar conteúdos apresentados na pós graduação.
+        Projeto desenvolvido para centralizar conteúdos apresentados na pós-graduação.
       </>
     ),
   },
@@ -21,7 +21,7 @@ const features = [
     imageUrl: 'img/documentSmall.svg',
     description: (
       <>
-        Para saber mais informações, acesse a área dos <a href="docs/">conteúdos</a> ou a área dos <a href="professores/">professores</a>
+        Para saber mais informações, acesse a área dos <a href="docs/">conteúdos</a> ou a área dos <a href="professores/">professores</a>.
       </>
     ),
   },
@@ -57,7 +57,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Projeto desenvolvido para centralizar conteúdos apresentados na pós graduação.">
+      description="Projeto desenvolvido para centralizar conteúdos apresentados na pós-graduação.">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
