@@ -22,7 +22,7 @@ Lista de conteúdos apresentados na pós.
 |[Banco de dados: SQL & NoSQL](./banco-de-dados)|30 horas|[Fernando](/professores/fernando) |
 |[Backend com JAVA](./backend-java)|40 horas|[Djonathan](/professores/djonathan)|
 |[Android](./android)|40 horas|[Paulo](/professores/paulo)|
-|Flutter|40 horas|[Marcos](/professores/marcos)|
+|[Flutter](./flutter)|40 horas|[Marcos](/professores/marcos)|
 |Node.js|40 horas| |
 |Progressive web apps|30 horas| |
 |Python|30 horas| |
