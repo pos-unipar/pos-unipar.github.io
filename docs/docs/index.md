@@ -22,7 +22,7 @@ Lista de conteúdos apresentados na pós.
 |[Banco de dados: SQL & NoSQL](./banco-de-dados)|30 horas|[Fernando](/professores/fernando) |
 |[Backend com JAVA](./backend-java)|40 horas|[Djonathan](/professores/djonathan)|
 |[Android](./android)|40 horas|[Paulo](/professores/paulo)|
-|Flutter|40 horas| |
+|Flutter|40 horas|[Marcos](/professores/marcos)|
 |Node.js|40 horas| |
 |Progressive web apps|30 horas| |
 |Python|30 horas| |
@@ -52,3 +52,5 @@ Lista de conteúdos apresentados na pós.
 |19/02/2022|[Android](./android)|Post no [blog](/blog/17)|
 |05/02/2022|[Android](./android)|Post no [blog](/blog/18)|
 |12/03/2022|[Android](./android)|Post no [blog](/blog/19)|
+|02/04/2022|[Flutter](./flutter)|Post no [blog](/blog/20)|
+|09/04/2022|[Flutter](./flutter)|Post no [blog](/blog/21)|

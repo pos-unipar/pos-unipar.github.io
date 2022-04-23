@@ -35,5 +35,6 @@ Instalação e Configuração; Introdução e Conceitos; Widgets; Stateful e Sta
 
 ## Repositórios (Forks)
 - [aula_01_pos_02_04_2022](https://github.com/pos-unipar/aula_01_pos_02_04_2022)
+- [aula_02_pos_09_04_2022](https://github.com/pos-unipar/aula_02_pos_09_04_2022)
 
 ### Trabalho final
