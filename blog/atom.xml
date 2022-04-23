@@ -2,11 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pos-unipar.github.io/blog</id>
     <title>Pós Web &amp; Dispositivos Móveis Blog</title>
-    <updated>2022-03-12T00:00:00.000Z</updated>
+    <updated>2022-04-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pos-unipar.github.io/blog"/>
     <subtitle>Pós Web &amp; Dispositivos Móveis Blog</subtitle>
     <icon>https://pos-unipar.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#21 - Flutter]]></title>
+        <id>21</id>
+        <link href="https://pos-unipar.github.io/blog/21"/>
+        <updated>2022-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[09/04/2022 - Aula 2 de Flutter (Presencial)]]></summary>
+        <content type="html"><![CDATA[<p><strong>09/04/2022 - Aula 2 de Flutter</strong> (Presencial)</p><p>O Professor <a href="/professores/marcos">Marcos</a> chegou antes das 08h da manhã, mas a aula começou só as 8h10 pois tinha poucos alunos, mas nesse tempo o professor ficou falando sobre a aula anterior e sobre a utilização do <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">Flutter</a>.</p><p>A aula se da inicio criando um novo projeto, que vamos consumir uma API feita pelo professor que contem os dados de times. o URL da API é <a href="http://controle.mdvsistemas.com.br/Esportes/Times/GetTime" target="_blank" rel="noopener noreferrer">http://controle.mdvsistemas.com.br/Esportes/Times/GetTime</a>.</p><p>Montamos uma tela que mostra os dados, como nome do time e a imagem da bandeira. Depois disso, vamos refatorando o código para separar eles em componentes.</p><p>A aula termina 12h e volta as 13h30, continuando a refatoração do código.</p><p>O código feito nessa aula está aqui: <a href="https://github.com/pos-unipar/aula_02_pos_09_04_2022" target="_blank" rel="noopener noreferrer">aula_02_pos_09_04_2022</a></p>]]></content>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="unipar" term="unipar"/>
+        <category label="09/04/2022" term="09/04/2022"/>
+        <category label="04/2022" term="04/2022"/>
+        <category label="2022" term="2022"/>
+        <category label="marcos" term="marcos"/>
+        <category label="flutter" term="flutter"/>
+        <category label="presencial" term="presencial"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#20 - Flutter]]></title>
+        <id>20</id>
+        <link href="https://pos-unipar.github.io/blog/20"/>
+        <updated>2022-04-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[02/04/2022 - Aula 1 de Fluter (Presencial)]]></summary>
+        <content type="html"><![CDATA[<p><strong>02/04/2022 - Aula 1 de Fluter</strong> (Presencial)</p><p>O professor <a href="/professores/marcos">Marcos</a> chegou antes das 08h da manhã, para passar a aula sobre <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">Flutter</a>.</p><p>Foi falado sobre o que é o flutter, sua estrutura básica, seus componentes, como que é feito a instalação e configuração.</p><p>Para começar a parte prática, foi criado um aplicativo para calcular qual o combustível que é melhor abastecer, etanol ou gasolina.</p><p>Junto com esse projeto, foi falado sobre como separar em componentes, para não repetir código.</p><p>E para finalizar a aula, foi falado de como instalar componentes, utilizando um componente para envio de email, e com isso, foi montado um projeto que trabalha com esse plugin.</p><p>O código feito nessa aula está aqui: <a href="https://github.com/pos-unipar/aula_01_pos_02_04_2022" target="_blank" rel="noopener noreferrer">aula_01_pos_02_04_2022</a></p>]]></content>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="unipar" term="unipar"/>
+        <category label="02/04/2022" term="02/04/2022"/>
+        <category label="04/2022" term="04/2022"/>
+        <category label="2022" term="2022"/>
+        <category label="marcos" term="marcos"/>
+        <category label="flutter" term="flutter"/>
+        <category label="presencial" term="presencial"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#19 - Android]]></title>
         <id>19</id>
