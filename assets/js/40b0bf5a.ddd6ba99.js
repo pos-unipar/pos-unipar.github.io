@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[692],{4161:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"flutter","count":3,"permalink":"/blog/tags/flutter"}')}}]);
