@@ -37,6 +37,8 @@ Introdução ao desenvolvimento com Android; Intents; Activitys; SQLITE; Retrofi
 ## Repositórios (Forks)
 - [unipar-CadastroAlunos](https://github.com/pos-unipar/unipar-CadastroAlunos)
 
+## Atividades solicitadas para serem entregues
+
 ### Trabalho final
 
 > [Google Classroom](https://classroom.google.com/u/0/c/NDc2Nzk1MzQ0ODIy/a/NDc2Nzk1MzQ0OTc0/details)
