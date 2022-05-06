@@ -10,7 +10,7 @@ module.exports = {
   organizationName: 'pos-unipar', // Usually your GitHub org/user name.
   projectName: 'pos-unipar.github.io', // Usually your repo name.
   themeConfig: {
-    hideableSidebar: true,
+    hideable: true,
     navbar: {
       title: 'Pós Unipar',
       logo: {
