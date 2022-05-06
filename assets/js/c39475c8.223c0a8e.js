@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[2949],{8342:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"13/11/2021","count":1,"permalink":"/blog/tags/13-11-2021"}')}}]);
