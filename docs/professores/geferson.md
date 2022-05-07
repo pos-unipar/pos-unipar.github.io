@@ -10,4 +10,4 @@ keywords:
 
 Geferson Luis Simonette	
 
-É o coordenador do curso da pós.
+Foi o coordenador do curso da pós até 11/2021.

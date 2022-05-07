@@ -37,8 +37,8 @@ Instalação e Configuração; Introdução e Conceitos; Widgets; Stateful e Sta
 - [aula_01_pos_02_04_2022](https://github.com/pos-unipar/aula_01_pos_02_04_2022)
 - [aula_02_pos_09_04_2022](https://github.com/pos-unipar/aula_02_pos_09_04_2022)
 - [aula_03_pos_23_04_2022](https://github.com/pos-unipar/aula_03_pos_23_04_2022)
-- [aula_03_pos_23_04_2022](https://github.com/pos-unipar/aula_04_pos_30_04_2022)
-- [aula_03_pos_23_04_2022](https://github.com/pos-unipar/aula_04_bloc_pos_30_04_2022)
+- [aula_04_pos_30_04_2022](https://github.com/pos-unipar/aula_04_pos_30_04_2022)
+- [aula_04_bloc_pos_30_04_2022](https://github.com/pos-unipar/aula_04_bloc_pos_30_04_2022)
 
 ## Atividades solicitadas para serem entregues
 

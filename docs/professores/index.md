@@ -25,3 +25,4 @@ keywords:
 |Djonathan Barros|Mestre|[Backend com Java](../docs/backend-java)|
 |Paulo Henrique P. dos Santos|Mestre|[Android](../docs/android)|
 |Marcos Dias Vendramini|Mestre|[Flutter](../docs/flutter)|
+|Everton Gomede|Pós-Doutorado|[Python](../docs/python)|

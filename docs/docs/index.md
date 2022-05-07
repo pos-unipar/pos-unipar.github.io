@@ -23,9 +23,9 @@ Lista de conteúdos apresentados na pós.
 |[Backend com JAVA](./backend-java)|40 horas|[Djonathan](/professores/djonathan)|
 |[Android](./android)|40 horas|[Paulo](/professores/paulo)|
 |[Flutter](./flutter)|40 horas|[Marcos](/professores/marcos)|
+|[Python](./python)|30 horas|[Everton](/professores/everton)|
 |Node.js|40 horas| |
 |Progressive web apps|30 horas| |
-|Python|30 horas| |
 |Ruby on Rails|40 horas| |
 |**Total**|**360 horas**| |
 
@@ -56,3 +56,4 @@ Lista de conteúdos apresentados na pós.
 |09/04/2022|[Flutter](./flutter)|Post no [blog](/blog/21)|
 |23/04/2022|[Flutter](./flutter)|Post no [blog](/blog/22)|
 |30/04/2022|[Flutter](./flutter)|Post no [blog](/blog/23)|
+|07/05/2022|[Python](./python)|Post no [blog](/blog/24)|
