@@ -25,11 +25,17 @@ Conceitos básicos; Arrays; Módulos; Orientação a objetos; Estrutura de um pr
 ## Calendário
 
 - [07/05/2022 - Aula 01](/blog/24)
-  - 
+  - Introdução ao Python
 - [14/05/2022 - Aula 02](/blog/#)
   - 
 - [28/05/2022 - Aula 03](/blog/#)
   - 
+
+## Materiais utilizados na disciplina
+
+- 07/05/2022
+  - [PythonIntroduction.ipynb](/docs/aula-24/PythonIntroduction.ipynb)
+    - Foi utilizado o [Google Colab](https://colab.research.google.com/) para trabalhar com o notebook.
 
 ## Repositórios (Forks)
 - 

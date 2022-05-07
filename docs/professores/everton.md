@@ -9,6 +9,9 @@ keywords:
 
 Everton Gomede
 
+- [Github](https://gomede.github.io/)
+- [Blog](https://evertongomede.blogspot.com/)
+
 ## Disciplinas
 
 - [Python](/docs/python)
