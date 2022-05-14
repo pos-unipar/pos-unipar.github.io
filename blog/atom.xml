@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pos-unipar.github.io/blog</id>
     <title>Pós Web &amp; Dispositivos Móveis Blog</title>
-    <updated>2022-04-30T00:00:00.000Z</updated>
+    <updated>2022-05-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pos-unipar.github.io/blog"/>
     <subtitle>Pós Web &amp; Dispositivos Móveis Blog</subtitle>
     <icon>https://pos-unipar.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#24 - Python]]></title>
+        <id>24</id>
+        <link href="https://pos-unipar.github.io/blog/24"/>
+        <updated>2022-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[07/05/2022 - Aula 1 de Python (remoto)]]></summary>
+        <content type="html"><![CDATA[<p><strong>07/05/2022 - Aula 1 de Python</strong> (remoto)</p><p>O Professor <a href="/professores/everton">Everton</a>, começou a aula um pouco antes das 8h, mas alguns as pessoas tiveram problemas para entrar, pois tinhas que utilizar o email acadêmico. O professor começou se apresentando, falando sobre sua carreira, e pediu para cada aluno se apresentar também, isso foi até as 09:15. </p><p>O professor continuou falando como que a matéria vai ser trabalhada, quais os horários e o que pretende ser abordado no curso.</p><h1>Agenda</h1><ul><li>Seu primeiro programa python</li><li>Strings e métodos de string</li><li>Números e matemática</li><li>Funções e laços</li><li>Encontrando e corrigindo erros de código</li><li>Lógica condicional e fluxo de controle</li><li>Tuplas, listas e dicionários</li><li>Programação orientada a objetos</li><li>Módulos e pacotes</li><li>Entrada e saída de arquivos</li><li>Instalando pacotes com pip</li><li>Trabalhando com banco de dados</li><li>Integrando com a web</li></ul><h1>Python</h1><ul><li>Python tem um paradigma funcional, ou seja, tudo é feito por funções.</li><li>Python é uma lingaguês interpretada, ou seja, não é necessário compilar o código para executá-lo.</li><li>Python é uma linguagem versátil, ele pode ser utilizado para criar aplicações de qualquer tipo.<ul><li>Web</li><li>Análise de dados</li><li>Aplicativos</li><li>Sistemas desktop</li></ul></li></ul><p>O professor compartilho no <a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer">Google Colab</a> um notebook com o código da primeira aula, que está disponível aqui, <a target="_blank" href="/assets/files/PythonIntroduction-212a329648d144094f5b39dec19534ad.ipynb">PythonIntroduction.ipynb</a>. Isso ajuda muito pois não precisamos criar nosso ambiente localmente. Utilizamos um ambiente padrão criado pelo Google para trabalhar com o python.</p><p>As 10h até 10:30, o professor fez um intervalo, e após o intervalo, começamos vendo o que é o Google Colab utilizando o arquivo <a target="_blank" href="/assets/files/PythonIntroduction-212a329648d144094f5b39dec19534ad.ipynb">PythonIntroduction.ipynb</a>. Nós devemos criar um novo notebook, que vai servir para nota, e devemos compartilhar com o professor. Além disso, devemos inserir abaixo de cada código uma explicação sobre o que ele faz.</p><p>Seguimos o material, aprendendo o básico de python, foi assim até 12h.</p><p>A aula voltou as 13:30, e seguimos o material, aprendendo o básico de python, foi assim até o final da aula.</p><p>No final da aula, professor passou uma atividade sobre Fibonacci, para explicarmos o que um trecho de código faz.</p>]]></content>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="unipar" term="unipar"/>
+        <category label="07/05/2022" term="07/05/2022"/>
+        <category label="05/2022" term="05/2022"/>
+        <category label="2022" term="2022"/>
+        <category label="everton" term="everton"/>
+        <category label="python" term="python"/>
+        <category label="remoto" term="remoto"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#23 - Flutter]]></title>
         <id>23</id>
