@@ -72,6 +72,7 @@ Antes de escrever qualquer código, pegue uma caneta e papel e esboce um modelo 
 1. Você deve ter pelo menos quatro classes: a classe pai Animal e então, pelo menos, três classes de animais filhos que herdam de Animal.
 2. Cada classe deve ter alguns atributos e pelo menos um método que modela algum comportamento apropriado para um animal específico ou todos os animais — como caminhar, correr, comer, dormir e assim por diante.
 3. Mantenha-o simples. Utilize a herança. Certifique-se de produzir detalhes sobre os animais e seus comportamentos.
+
 </small>
 </p>
 </details>  
