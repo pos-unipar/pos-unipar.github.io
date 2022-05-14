@@ -26,7 +26,11 @@ Conceitos básicos; Arrays; Módulos; Orientação a objetos; Estrutura de um pr
 
 - [07/05/2022 - Aula 01](/blog/24)
   - Introdução ao Python
-- [14/05/2022 - Aula 02](/blog/#)
+  - Métodos de *string*
+  - Métodos de *int*
+  - Métodos de *flot*
+  - Métodos de repetição
+- [14/05/2022 - Aula 02](/blog/25)
   - 
 - [28/05/2022 - Aula 03](/blog/#)
   - 
