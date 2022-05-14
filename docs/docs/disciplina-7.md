@@ -36,7 +36,7 @@ Conceitos básicos; Arrays; Módulos; Orientação a objetos; Estrutura de um pr
 - 07/05/2022
   - [PythonIntroduction.ipynb](/docs/aula-24/PythonIntroduction.ipynb)
     - Foi utilizado o [Google Colab](https://colab.research.google.com/) para trabalhar com o notebook.
-    - Link original: [Google Drive]([/docs/aula-24/PythonIntroduction.ipynb](https://colab.research.google.com/drive/181t6kmWqLZhQzXmL3UzxVzYF3ACcrhnb?usp=sharing))
+    - Link original: [Google Drive](https://colab.research.google.com/drive/181t6kmWqLZhQzXmL3UzxVzYF3ACcrhnb?usp=sharing)
 
 ## Repositórios (Forks)
 
