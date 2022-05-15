@@ -57,3 +57,4 @@ Lista de conteúdos apresentados na pós.
 |23/04/2022|[Flutter](./flutter)|Post no [blog](/blog/22)|
 |30/04/2022|[Flutter](./flutter)|Post no [blog](/blog/23)|
 |07/05/2022|[Python](./python)|Post no [blog](/blog/24)|
+|14/05/2022|[Python](./python)|Post no [blog](/blog/25)|
