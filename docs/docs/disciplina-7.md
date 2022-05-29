@@ -35,8 +35,12 @@ Conceitos básicos; Arrays; Módulos; Orientação a objetos; Estrutura de um pr
   - Tuplas, listas e dicionários
   - Programação orientada a objetos
   - Modulos e pacotes
-- [28/05/2022 - Aula 03](/blog/#)
-  - 
+- [28/05/2022 - Aula 03](/blog/26)
+  - Encontrar e corrigir erros
+  - Entrada e saída de dados em arquivos
+  - Instalando pacotes com pip
+  - Trabalhando com banco de dados
+  - Interagindo com a web
 
 ## Materiais utilizados na disciplina
 
@@ -46,6 +50,10 @@ Conceitos básicos; Arrays; Módulos; Orientação a objetos; Estrutura de um pr
     - Link original: [Google Drive](https://colab.research.google.com/drive/181t6kmWqLZhQzXmL3UzxVzYF3ACcrhnb?usp=sharing)
 - 14/05/2022
   - [PythonIntroduction.ipynb](/docs/aula-25/PythonIntroduction.ipynb)
+    - Foi utilizado o [Google Colab](https://colab.research.google.com/) para trabalhar com o notebook.
+    - Link original: [Google Drive](https://colab.research.google.com/drive/181t6kmWqLZhQzXmL3UzxVzYF3ACcrhnb?usp=sharing)
+- 28/05/2022
+  - [PythonIntroduction.ipynb](/docs/aula-26/PythonIntroduction.ipynb)
     - Foi utilizado o [Google Colab](https://colab.research.google.com/) para trabalhar com o notebook.
     - Link original: [Google Drive](https://colab.research.google.com/drive/181t6kmWqLZhQzXmL3UzxVzYF3ACcrhnb?usp=sharing)
 
@@ -80,4 +88,19 @@ Antes de escrever qualquer código, pegue uma caneta e papel e esboce um modelo 
 
 O arquivo criado deve ser compartilhado com o professor no email [evertongomede@gmail.com](mailto:evertongomede@gmail.com).
 
+### Atividade 3
+
+<details><summary>Transcrição</summary>
+<p>
+<small>
+Selecione uma página de notícias de sua escolha. Leia uma lista de elementos que se repetem e os armazene em um dataframe. Depois disso, faça a limpeza dos dados. Com isso, inicie uma instância do PostgreSQL, crie uma tabela e armazene os dados dentro desta tabela.
+</small>
+</p>
+</details>  
+<br />
+
+O arquivo criado deve ser compartilhado com o professor no email [evertongomede@gmail.com](mailto:evertongomede@gmail.com).
+
 ### Trabalho final
+
+O trabalho final vai ser avaliado pelos comentários feitos e as atividades 1, atividade 2 e atividade 3.
