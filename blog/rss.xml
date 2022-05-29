@@ -4,10 +4,26 @@
         <title>Pós Web &amp; Dispositivos Móveis Blog</title>
         <link>https://pos-unipar.github.io/blog</link>
         <description>Pós Web &amp; Dispositivos Móveis Blog</description>
-        <lastBuildDate>Sat, 14 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[#26 - Python]]></title>
+            <link>https://pos-unipar.github.io/blog/26</link>
+            <guid>26</guid>
+            <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[28/05/2022 - Aula 3 de Python (remoto)]]></description>
+            <content:encoded><![CDATA[<p><strong>28/05/2022 - Aula 3 de Python</strong> (remoto)</p><p>O Professor <a href="/professores/everton">Everton</a>, começou a aula as 08:00h e aguardou os alunos até as 08:10h. A aula seguiu da mesma forma que a passada, professor falando, nós escutando, e tendo que fazer comentários no material que ele passou.</p><p>Detalhe dessa aula é qeu professor estava sem acesso ao Google Meet, e não conseguiu acessar o link do Meet da aula passada. A aula seguiu por um tempo, até que o meet deu aviso de limite da sala. Um aluno criou um novo link, utilizando a conta da Unipar de academico e foi liberado acesso para todos.</p><p>Teve intervalo de 30 minutos as 10h e no almoço, teve 1:30h de intervalo, com a aula voltando as 13:45.</p><p>A tarde continuamos vendo o professor fazendo os códigos e explicando o que está acontecendo.</p><p>A aula termina 17:15h, 15 minutos antes do previsto.</p>]]></content:encoded>
+            <category>blog</category>
+            <category>unipar</category>
+            <category>28/05/2022</category>
+            <category>05/2022</category>
+            <category>2022</category>
+            <category>everton</category>
+            <category>python</category>
+            <category>remoto</category>
+        </item>
         <item>
             <title><![CDATA[#25 - Python]]></title>
             <link>https://pos-unipar.github.io/blog/25</link>

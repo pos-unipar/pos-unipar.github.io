@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pos-unipar.github.io/blog</id>
     <title>Pós Web &amp; Dispositivos Móveis Blog</title>
-    <updated>2022-05-14T00:00:00.000Z</updated>
+    <updated>2022-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pos-unipar.github.io/blog"/>
     <subtitle>Pós Web &amp; Dispositivos Móveis Blog</subtitle>
     <icon>https://pos-unipar.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#26 - Python]]></title>
+        <id>26</id>
+        <link href="https://pos-unipar.github.io/blog/26"/>
+        <updated>2022-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[28/05/2022 - Aula 3 de Python (remoto)]]></summary>
+        <content type="html"><![CDATA[<p><strong>28/05/2022 - Aula 3 de Python</strong> (remoto)</p><p>O Professor <a href="/professores/everton">Everton</a>, começou a aula as 08:00h e aguardou os alunos até as 08:10h. A aula seguiu da mesma forma que a passada, professor falando, nós escutando, e tendo que fazer comentários no material que ele passou.</p><p>Detalhe dessa aula é qeu professor estava sem acesso ao Google Meet, e não conseguiu acessar o link do Meet da aula passada. A aula seguiu por um tempo, até que o meet deu aviso de limite da sala. Um aluno criou um novo link, utilizando a conta da Unipar de academico e foi liberado acesso para todos.</p><p>Teve intervalo de 30 minutos as 10h e no almoço, teve 1:30h de intervalo, com a aula voltando as 13:45.</p><p>A tarde continuamos vendo o professor fazendo os códigos e explicando o que está acontecendo.</p><p>A aula termina 17:15h, 15 minutos antes do previsto.</p>]]></content>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="unipar" term="unipar"/>
+        <category label="28/05/2022" term="28/05/2022"/>
+        <category label="05/2022" term="05/2022"/>
+        <category label="2022" term="2022"/>
+        <category label="everton" term="everton"/>
+        <category label="python" term="python"/>
+        <category label="remoto" term="remoto"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#25 - Python]]></title>
         <id>25</id>
