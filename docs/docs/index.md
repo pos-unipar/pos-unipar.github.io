@@ -24,7 +24,7 @@ Lista de conteúdos apresentados na pós.
 |[Android](./android)|40 horas|[Paulo](/professores/paulo)|
 |[Flutter](./flutter)|40 horas|[Marcos](/professores/marcos)|
 |[Python](./python)|30 horas|[Everton](/professores/everton)|
-|Node.js|40 horas| |
+|[Node.js](./nodejs)|40 horas|[Marlon](/professores/marlon)|
 |Progressive web apps|30 horas| |
 |Ruby on Rails|40 horas| |
 |**Total**|**360 horas**| |
@@ -59,3 +59,4 @@ Lista de conteúdos apresentados na pós.
 |07/05/2022|[Python](./python)|Post no [blog](/blog/24)|
 |14/05/2022|[Python](./python)|Post no [blog](/blog/25)|
 |28/05/2022|[Python](./python)|Post no [blog](/blog/26)|
+|11/06/2022|[Node.js](./nodejs)|Post no [blog](/blog/27)|
