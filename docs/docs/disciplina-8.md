@@ -40,7 +40,7 @@ Node.js; REST com Javascript; Express; Socket.io; Autenticação e Segurança; I
   - 
 
 ## Repositórios (Forks)
-
+- [aula-node-posunipar](https://github.com/pos-unipar/aula-node-posunipar)
 
 ## Atividades solicitadas para serem entregues
 
