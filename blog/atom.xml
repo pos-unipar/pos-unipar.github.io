@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pos-unipar.github.io/blog</id>
     <title>Pós Web &amp; Dispositivos Móveis Blog</title>
-    <updated>2022-06-11T00:00:00.000Z</updated>
+    <updated>2022-06-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pos-unipar.github.io/blog"/>
     <subtitle>Pós Web &amp; Dispositivos Móveis Blog</subtitle>
     <icon>https://pos-unipar.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#28 - Node.js]]></title>
+        <id>28</id>
+        <link href="https://pos-unipar.github.io/blog/28"/>
+        <updated>2022-06-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[28/06/2022 - Aula 1 de Node.js (Presencial)]]></summary>
+        <content type="html"><![CDATA[<p><strong>28/06/2022 - Aula 1 de Node.js</strong> (Presencial)</p><p>O Professor <a href="/professores/everton">Marlon</a>, chegou atrasado 10 minutos. Começou a aula as 08:40h, após o professor enviar o projeto para o github, o link é <a href="https://github.com/pos-unipar/aula-node-posunipar" target="_blank" rel="noopener noreferrer">aula-node-posunipar</a>.</p><p>Começamos a aula instalando um novo pacote para o mongo</p><div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">npm install --save mongoose</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>Seguimos a aula fazendo com que os metodos GET, PATCH e DELETE funcionem com o banco de dados MongoDB</p><p>Teve o intervalo as 12h até as 13:30h.</p><p>Continuamos mudando as rotas para a parte das ordens</p><p>Adicionamos um novo pacote</p><div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">npm install --savel multer</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>Utilizamos o multer para fazer o upload de arquivos</p><p>Com isso finalizamos a aula de hoje.</p>]]></content>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="unipar" term="unipar"/>
+        <category label="28/06/2022" term="28/06/2022"/>
+        <category label="06/2022" term="06/2022"/>
+        <category label="2022" term="2022"/>
+        <category label="marlon" term="marlon"/>
+        <category label="node.js" term="node.js"/>
+        <category label="nodejs" term="nodejs"/>
+        <category label="node" term="node"/>
+        <category label="js" term="js"/>
+        <category label="presencial" term="presencial"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#27 - Node.js]]></title>
         <id>27</id>
