@@ -27,19 +27,16 @@ Node.js; REST com Javascript; Express; Socket.io; Autenticação e Segurança; I
 - [11/06/2022 - Aula 01](/blog/27)
   - Introdução ao Node.js
   - RESTful API
-- [25/06/2022 - Aula 02](/blog/#)
+- [25/06/2022 - Aula 02](/blog/28)
   - Banco de dados MongoDB
   - CRUD
   - Upload de arquivos
-- [02/07/2022 - Aula 03](/blog/#)
-  - 
+- [02/07/2022 - Aula 03](/blog/29)
+  - CRUD
 - [16/07/2022 - Aula 04](/blog/#)
   - 
 
 ## Materiais utilizados na disciplina
-
-- 11/06/2022
-  - 
 
 ## Repositórios (Forks)
 - [aula-node-posunipar](https://github.com/pos-unipar/aula-node-posunipar)
