@@ -28,7 +28,9 @@ Node.js; REST com Javascript; Express; Socket.io; Autenticação e Segurança; I
   - Introdução ao Node.js
   - RESTful API
 - [25/06/2022 - Aula 02](/blog/#)
-  - 
+  - Banco de dados MongoDB
+  - CRUD
+  - Upload de arquivos
 - [02/07/2022 - Aula 03](/blog/#)
   - 
 - [16/07/2022 - Aula 04](/blog/#)
