@@ -60,3 +60,4 @@ Lista de conteúdos apresentados na pós.
 |14/05/2022|[Python](./python)|Post no [blog](/blog/25)|
 |28/05/2022|[Python](./python)|Post no [blog](/blog/26)|
 |11/06/2022|[Node.js](./nodejs)|Post no [blog](/blog/27)|
+|25/06/2022|[Node.js](./nodejs)|Post no [blog](/blog/28)|
