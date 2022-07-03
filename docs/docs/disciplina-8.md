@@ -33,6 +33,8 @@ Node.js; REST com Javascript; Express; Socket.io; Autenticação e Segurança; I
   - Upload de arquivos
 - [02/07/2022 - Aula 03](/blog/29)
   - CRUD
+  - Autenticação e Segurança
+  - Swagger
 - [16/07/2022 - Aula 04](/blog/#)
   - 
 
