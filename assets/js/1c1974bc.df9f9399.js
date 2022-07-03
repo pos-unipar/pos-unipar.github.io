@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[191],{5292:function(a){a.exports=JSON.parse('{"label":"unipar","permalink":"/blog/tags/unipar","allTagsPath":"/blog/tags","count":28}')}}]);
