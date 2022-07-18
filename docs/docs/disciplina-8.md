@@ -36,7 +36,7 @@ Node.js; REST com Javascript; Express; Socket.io; Autenticação e Segurança; I
   - Autenticação e Segurança
   - Swagger
 - [16/07/2022 - Aula 04](/blog/#)
-  - 
+  - Integração com front-end em Angular
 
 ## Materiais utilizados na disciplina
 
@@ -47,4 +47,6 @@ Node.js; REST com Javascript; Express; Socket.io; Autenticação e Segurança; I
 
 
 ### Trabalho final
+>'[Máterial em PDF do trabalho](/docs/aula-30/AvaliacaoNodeJs.pdf)'
 
+```Entregar até o dia 30/07/2022```
