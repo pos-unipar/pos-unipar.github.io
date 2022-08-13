@@ -35,6 +35,7 @@ Não tem, pois essa matéria entrou no lugar de PWA
 - [13/08/2022 - Aula 01](/blog/31)
   - DevOps
   - Conceitos
+  - Docker
 - [20-27/08/2022 - Aula 02](/blog/#)
 - [03/09/2022 - Aula 03](/blog/#)
 
