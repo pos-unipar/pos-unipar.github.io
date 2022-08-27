@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[8830],{6365:function(s){s.exports=JSON.parse('{"label":"geferson","permalink":"/blog/tags/geferson","allTagsPath":"/blog/tags","count":1}')}}]);

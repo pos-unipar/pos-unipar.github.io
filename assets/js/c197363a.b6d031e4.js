@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[5341],{940:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/2022/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":15,"previousPage":"/blog/tags/2022","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
