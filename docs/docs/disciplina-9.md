@@ -49,4 +49,15 @@ Não tem, pois essa matéria entrou no lugar de PWA
 
 ## Atividades solicitadas para serem entregues
 
+### Atividade 1
+
+> Página 51 do '[Máterial em PDF](/docs/aula-31/DevOps-First.pdf)'
+
+```Entregar durante a aula 1```
+
+Utilizar uma aplicação qualquer, de qualquer linguagem, mas uma aplicação Web, Dê preferência com alguma conectividade com algum banco de dados.
+Criar um Dockerfile que construa e gere uma imagem da aplicação
+
+
 ### Trabalho final
+
