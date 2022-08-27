@@ -14,15 +14,14 @@ keywords:
 
 |Docente|Titulação|Disciplina|
 |-|-|-|
-|Alan Lira|Especialista||
-|Alexandro Patrick|Mestre||
-|Carlos Alberto Meier Basso|Mestre||
-|Fernando Rigo Botelho|Mestre|[Banco de dados](../docs/banco-de-dados)|
-|Geferson Luis Simonette|Especialista||
+|Geferson Luis Simonette|Especialista|Coordenador (até 11/2021)|
+|Fernando Rigo Botelho|Mestre|Coordenador|
 |Jemerson Fernando Maia|Especialista|[HTML, CSS e JS](../docs/html-css-js)|
-|Ricardo Grassi|Especialista||
 |Jean Junior Heldt|Especialista|[Angular](../docs/angular)|
+|Fernando Rigo Botelho|Mestre|[Banco de dados](../docs/banco-de-dados)|
 |Djonathan Barros|Mestre|[Backend com Java](../docs/backend-java)|
 |Paulo Henrique P. dos Santos|Mestre|[Android](../docs/android)|
 |Marcos Dias Vendramini|Mestre|[Flutter](../docs/flutter)|
 |Everton Gomede|Pós-Doutorado|[Python](../docs/python)|
+|Marlon Victor de Paula|Especialista|[Node.js](../docs/nodejs)|
+|Jemerson Fernando Maia|Especialista|[DevOps](../docs/devops)|

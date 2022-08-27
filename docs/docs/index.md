@@ -17,15 +17,16 @@ Lista de conteúdos apresentados na pós.
 
 |Nome|Carga horária|Professor|
 |-|-|-|
-|[HTML5, CSS3 e Javascript](./html-css-js)|	30 horas|[Jemerson](/professores/jemerson) |
+|[HTML5, CSS3 e Javascript](./html-css-js)|30 horas|[Jemerson](/professores/jemerson)|
 |[Angular](./angular)|40 horas|[Jean](/professores/jean) |
-|[Banco de dados: SQL & NoSQL](./banco-de-dados)|30 horas|[Fernando](/professores/fernando) |
+|[Banco de dados: SQL & NoSQL](./banco-de-dados)|30 horas|[Fernando](/professores/fernando)|
 |[Backend com JAVA](./backend-java)|40 horas|[Djonathan](/professores/djonathan)|
 |[Android](./android)|40 horas|[Paulo](/professores/paulo)|
 |[Flutter](./flutter)|40 horas|[Marcos](/professores/marcos)|
 |[Python](./python)|30 horas|[Everton](/professores/everton)|
 |[Node.js](./nodejs)|40 horas|[Marlon](/professores/marlon)|
-|Progressive web apps|30 horas| |
+|Progressive web apps|30 horas|Subistituido por [DevOps](./devops)|
+|[DevOps](./devops)|30 horas|[Jemerson](/professores/jemerson)|
 |Ruby on Rails|40 horas| |
 |**Total**|**360 horas**| |
 
@@ -63,3 +64,4 @@ Lista de conteúdos apresentados na pós.
 |25/06/2022|[Node.js](./nodejs)|Post no [blog](/blog/28)|
 |02/07/2022|[Node.js](./nodejs)|Post no [blog](/blog/29)|
 |16/07/2022|[Node.js](./nodejs)|Post no [blog](/blog/30)|
+|13/08/2022|[DevOps](./devops)|Post no [blog](/blog/31)|
