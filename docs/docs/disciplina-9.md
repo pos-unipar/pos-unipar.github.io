@@ -36,13 +36,16 @@ Não tem, pois essa matéria entrou no lugar de PWA
   - DevOps
   - Conceitos
   - Docker
-- [20-27/08/2022 - Aula 02](/blog/#)
+- [20-27/08/2022 - Aula 02](/blog/32)
+  - Infraestrutura como código (IaC)
 - [03/09/2022 - Aula 03](/blog/#)
 
 ## Materiais utilizados na disciplina
 - 13/08/2022
   - [Máterial em PDF](/docs/aula-31/DevOps-Disciplina.pdf) - Informações sobre a disciplina	
   - [Máterial em PDF](/docs/aula-31/DevOps-First.pdf) - Slide 01 da Aula 1
+- 27/08/2022
+  - [Máterial em PDF](/docs/aula-32/DevOps-Second.pdf) - Slide 01 da Aula 1
 
 ## Repositórios (Forks)
 - [unipar-devops](https://github.com/pos-unipar/unipar-devops)
@@ -56,8 +59,16 @@ Não tem, pois essa matéria entrou no lugar de PWA
 ```Entregar durante a aula 1```
 
 Utilizar uma aplicação qualquer, de qualquer linguagem, mas uma aplicação Web, Dê preferência com alguma conectividade com algum banco de dados.
-Criar um Dockerfile que construa e gere uma imagem da aplicação
+Criar um Dockerfile que construa e gere uma imagem da aplicação.
 
+### Atividade 2
+
+> Página 27 do '[Máterial em PDF](/docs/aula-32/DevOps-Second.pdf)'
+
+```Entregar durante a aula 2```
+
+Criar um segundo servidor EC2 utilizando Terraform.
+Configurar os dois servidores para executar a aplicação do docker-compose.yml da atividade da aula anterior, configurando com Ansible.
 
 ### Trabalho final
 
