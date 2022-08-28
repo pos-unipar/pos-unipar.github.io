@@ -4,10 +4,28 @@
         <title>Pós Web &amp; Dispositivos Móveis Blog</title>
         <link>https://pos-unipar.github.io/blog</link>
         <description>Pós Web &amp; Dispositivos Móveis Blog</description>
-        <lastBuildDate>Sat, 13 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[#32 - DevOps]]></title>
+            <link>https://pos-unipar.github.io/blog/32</link>
+            <guid>32</guid>
+            <pubDate>Sat, 27 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[27/08/2022 - Aula 2 de DevOps (Presencial)]]></description>
+            <content:encoded><![CDATA[<p><strong>27/08/2022 - Aula 2 de DevOps</strong> (Presencial)</p><p>O professor <a href="/professores/jemerson">Jemerson</a> pediu para atualizarmos o projeto <a href="https://github.com/pos-unipar/unipar-devops" target="_blank" rel="noopener noreferrer">unipar-devops</a> pois ele enviou la o <a target="_blank" href="/assets/files/DevOps-Second-e7d2d4bf6da9e610d9d0e942bff56a71.pdf">Máterial em PDF</a> para a aula de hoje.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="infraestrutura-como-código-iac">Infraestrutura como código (IaC)<a class="hash-link" href="#infraestrutura-como-código-iac" title="Direct link to heading">​</a></h2><p>IaC é uma prática DevOps que busca automatizar o provisionamento da infraestrutura de TI. Consiste na utilização de uma linguagem de codificação descritiva de alto nível
+que tem como objetivo automatizar o provisionamento da infraestrutura seja on
+premise ou cloud</p><p>Exemplos de ferramentas: </p><ul><li><a href="#ansible">Ansible</a></li><li>AWS CloudFormation</li><li>Chef</li><li>Puppet</li><li>Saltsack</li><li><a href="#terraform">Terraform</a></li><li>Vagrant</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="terraform">Terraform<a class="hash-link" href="#terraform" title="Direct link to heading">​</a></h3><p>De acordo com o site oficial, o <em>Terraform é uma ferramenta de infraestrutura como código (IaC) que permite a criação, alteração e versão de infraestrutura de TI de forma segura e eficiente</em>.</p><p>Ele pode ser utilizado para gerenciar as principais nuvens públicas e privadas de TI, como AWS, Azure, Google Cloud, etc.</p><p>Após criamos uma maquina com o Terraform na AWS, vamos utilizar o Ansible.</p><p>Exemplo de comandos:
+<img loading="lazy" src="/assets/images/Terraform-Cheat-Sheet-c2ebfaa2465e32268fc939cf7f5f2711.png" width="2240" height="1260" class="img_ev3q"></p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="ansible">Ansible<a class="hash-link" href="#ansible" title="Direct link to heading">​</a></h3><p>O Ansible é um mecanismo de automação de TI open source para automação de processos como provisionamento, gerenciamento de configurações, implantação de aplicações, orquestração e muitos outros</p><p><img loading="lazy" src="/assets/images/Ansible-14a970415b46ae5ce2f9c4734b9ed2b6.png" width="829" height="435" class="img_ev3q"></p><ul><li>Inventory<ul><li>Os inventários organizam os nós gerenciados em arquivos centralizados que fornecem ao Ansible informações do sistema e locais de rede.</li></ul></li><li>Playbook<ul><li>Os playbooks são blueprints de automação, em formato YAML, que o Ansible usa para implantar e configurar nós gerenciados.</li></ul></li></ul><p>Depois de passar esses conteúdos, o professor <a href="/professores/jemerson">Jemerson</a> pediu para fazermos uma <a href="/docs/devops#atividade-2">atividade 2</a>.</p>]]></content:encoded>
+            <category>blog</category>
+            <category>unipar</category>
+            <category>27/08/2022</category>
+            <category>08/2022</category>
+            <category>2022</category>
+            <category>jemerson</category>
+            <category>presencial</category>
+        </item>
         <item>
             <title><![CDATA[#31 - DevOps]]></title>
             <link>https://pos-unipar.github.io/blog/31</link>
