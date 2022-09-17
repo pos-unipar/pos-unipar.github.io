@@ -36,7 +36,7 @@ Não tem, pois essa matéria entrou no lugar de PWA
   - DevOps
   - Conceitos
   - Docker
-- [20-27/08/2022 - Aula 02](/blog/32)
+- [27/08/2022 - Aula 02](/blog/32)
   - Infraestrutura como código (IaC)
   - Terraform
   - Ansible
