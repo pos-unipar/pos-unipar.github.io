@@ -38,17 +38,26 @@ Não tem, pois essa matéria entrou no lugar de PWA
   - Docker
 - [20-27/08/2022 - Aula 02](/blog/32)
   - Infraestrutura como código (IaC)
-- [03/09/2022 - Aula 03](/blog/#)
+  - Terraform
+  - Ansible
+- [03/09/2022 - Aula 03](/blog/33)
+  - Monitoramento e gestão de incidentes
+  - Prometheus
+  - Grafana
+
 
 ## Materiais utilizados na disciplina
 - 13/08/2022
   - [Máterial em PDF](/docs/aula-31/DevOps-Disciplina.pdf) - Informações sobre a disciplina	
   - [Máterial em PDF](/docs/aula-31/DevOps-First.pdf) - Slide 01 da Aula 1
 - 27/08/2022
-  - [Máterial em PDF](/docs/aula-32/DevOps-Second.pdf) - Slide 01 da Aula 1
+  - [Máterial em PDF](/docs/aula-32/DevOps-Second.pdf) - Slide 01 da Aula 2
+- 10/09/2022
+  - [Máterial em PDF](/docs/aula-33/DevOps-Third.pdf) - Slide 01 da Aula 3
 
 ## Repositórios (Forks)
 - [unipar-devops](https://github.com/pos-unipar/unipar-devops)
+- [my-grails-app](https://github.com/pos-unipar/my-grails-app.git)
 
 ## Atividades solicitadas para serem entregues
 
@@ -71,4 +80,13 @@ Criar um segundo servidor EC2 utilizando Terraform.
 Configurar os dois servidores para executar a aplicação do docker-compose.yml da atividade da aula anterior, configurando com Ansible.
 
 ### Trabalho final
+
+> Página 12 do '[Máterial em PDF](/docs/aula-33/DevOps-Third.pdf)'
+
+```Entregar durante a aula 3```
+
+Continuando as atividades anteriores
+- Finalizar criação do Dockerfile para a aplicação escohida
+- Finalizar implantação EC2 e CI/CD
+- Enviar métricas da aplicação para Prometheus
 
