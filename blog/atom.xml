@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pos-unipar.github.io/blog</id>
     <title>Pós Web &amp; Dispositivos Móveis Blog</title>
-    <updated>2022-08-27T00:00:00.000Z</updated>
+    <updated>2022-09-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pos-unipar.github.io/blog"/>
     <subtitle>Pós Web &amp; Dispositivos Móveis Blog</subtitle>
     <icon>https://pos-unipar.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#33 - DevOps]]></title>
+        <id>33</id>
+        <link href="https://pos-unipar.github.io/blog/33"/>
+        <updated>2022-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10/09/2022 - Aula 3 de DevOps (Presencial)]]></summary>
+        <content type="html"><![CDATA[<p><strong>10/09/2022 - Aula 3 de DevOps</strong> (Presencial)</p><p>A aula começou 10minutos atrasada pois a sala estava trancada, mas logo alguém a briu e a aula começou. O professor <a href="/professores/jemerson">Jemerson</a> pediu para atualizarmos o projeto <a href="https://github.com/pos-unipar/unipar-devops" target="_blank" rel="noopener noreferrer">unipar-devops</a> pois ele enviou la o <a target="_blank" href="/assets/files/DevOps-Third-38890603e837ed84dcb1cca087fcb70f.pdf">Máterial em PDF</a> para a aula de hoje.</p><p>O objetivo da aula de hoje é ver sobre monitoramento de aplicações, e para isso vamos usar o <a href="https://prometheus.io/" target="_blank" rel="noopener noreferrer">Prometheus</a> e <a href="https://grafana.com/" target="_blank" rel="noopener noreferrer">Grafana</a>.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="monitoramento">Monitoramento<a class="hash-link" href="#monitoramento" title="Direct link to heading">​</a></h2><p>Busca supervisionar todo o processo de desenvolvimento de software, desde o planejamento até a implantação e operação.
+Isso permite responder a qualquer degradação na experiência do cliente, detectando e respondendo a qualquer incidente (bugs, comportamentos inadequados, falhas de recursos físicos, integração com terceiros, entre outros).</p><p><strong>Metas do monitoramento</strong></p><p>Um dos principais objetivos do monitoramento é alcançar a alta disponibilidade minimizando as principais métricas medidas em termos de tempo:</p><ul><li>TTD (Time to Detect): Tempo para detectar problemas diversos;</li><li>TTM (Time to mitigate): Tempo para atenuar os problemas o mais rápido possível para que os usuários não sejam afetados;</li><li>TTR (Time to remediate): Tempo para correção são medidos e as equipes trabalham para melhorar ao longo do tempo</li></ul><p><strong>Conceitos</strong></p><ul><li>Telemetria<ul><li>Mecanismo de coletar dados do monitoramento.</li></ul></li><li>Monitoramento sintético<ul><li>Avalia o desempenho e a disponibilidade</li></ul></li><li>Monitoramento real do usuário<ul><li>Medem a experiência do navegador ou dispositivo móvel</li></ul></li></ul><p><strong>Ferramentas</strong></p><p>Uma lista de ferramentas de monitoramento pode ser encontrada em <a href="https://landscape.cncf.io/" target="_blank" rel="noopener noreferrer">Cloud Native Computing Foundation</a></p><p><img loading="lazy" alt="Ferramentas de monitoramento" src="/assets/images/imagem1-f9abdb90717e421f798bff44d85192cb.png" width="874" height="355" class="img_ev3q"></p><p>Depois de passar esses conteúdos, o professor <a href="/professores/jemerson">Jemerson</a> pediu para fazermos o trabalho do curso, que é criar um ambiente de monitoramento para o projeto das atividades anteriores.</p><p>Depois de fazermos o trabalho, teve uma competição sobre perguntas de DevOps, o ganhador levava um livro sobre DevOps. </p><div class="theme-admonition theme-admonition-warning alert alert--danger admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M5.05.31c.81 2.17.41 3.38-.52 4.31C3.55 5.67 1.98 6.45.9 7.98c-1.45 2.05-1.7 6.53 3.53 7.7-2.2-1.16-2.67-4.52-.3-6.61-.61 2.03.53 3.33 1.94 2.86 1.39-.47 2.3.53 2.27 1.67-.02.78-.31 1.44-1.13 1.81 3.42-.59 4.78-3.42 4.78-5.56 0-2.84-2.53-3.22-1.25-5.61-1.52.13-2.03 1.13-1.89 2.75.09 1.08-1.02 1.8-1.86 1.33-.67-.41-.66-1.19-.06-1.78C8.18 5.31 8.68 2.45 5.05.32L5.03.3l.02.01z"></path></svg></span>Trabalho</div><div class="admonitionContent_S0QG"><p>As informações do trabalho estão na pagina da disciplina.
+<a href="/docs/devops#trabalho-final"><strong>Link</strong></a></p></div></div>]]></content>
+        <author>
+            <name>Lucas Elias Baccan</name>
+            <uri>https://github.com/lucasbaccan</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="unipar" term="unipar"/>
+        <category label="10/09/2022" term="10/09/2022"/>
+        <category label="09/2022" term="09/2022"/>
+        <category label="2022" term="2022"/>
+        <category label="jemerson" term="jemerson"/>
+        <category label="presencial" term="presencial"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#32 - DevOps]]></title>
         <id>32</id>
