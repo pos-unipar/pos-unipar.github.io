@@ -40,7 +40,7 @@ Scaffolds; Controllers; Filtros; i18n; Helpers; Banco de dados; arquitetura MVC;
 
 ## Materiais utilizados na disciplina
 - 13/08/2022
-  - [Máterial em PDF](/docs/aula-31/Ruby-e-Ruby-on-Rails.pdf) - Documento da aula 01
+  - [Máterial em PDF](/docs/aula-34/Ruby-e-Ruby-on-Rails.pdf) - Documento da aula 01
 - 01/10/2022
   - 
 - 15/10/2022
