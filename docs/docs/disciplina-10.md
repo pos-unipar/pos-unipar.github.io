@@ -25,6 +25,12 @@ Scaffolds; Controllers; Filtros; i18n; Helpers; Banco de dados; arquitetura MVC;
 
 - [17/09/2022 - Aula 01](/blog/34)
   - Ruby
+  - Rails
+  - Model
+  - Controller
+  - View
+  - Scaffolds
+  - Rotas
 - [01/10/2022 - Aula 02](/blog/#)
   - 
 - [15/10/2022 - Aula 03](/blog/#)
@@ -34,7 +40,7 @@ Scaffolds; Controllers; Filtros; i18n; Helpers; Banco de dados; arquitetura MVC;
 
 ## Materiais utilizados na disciplina
 - 13/08/2022
-  - [Máterial em PDF](/docs/aula-31/DevOps-First.pdf) - Slide 01 da Aula 1
+  - [Máterial em PDF](/docs/aula-31/Ruby-e-Ruby-on-Rails.pdf) - Documento da aula 01
 - 01/10/2022
   - 
 - 15/10/2022
