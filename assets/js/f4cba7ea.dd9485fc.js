@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[5150],{3635:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/presencial/page/3","page":3,"postsPerPage":10,"totalPages":3,"totalCount":21,"previousPage":"/blog/tags/presencial/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
