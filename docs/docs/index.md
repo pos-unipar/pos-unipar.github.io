@@ -27,7 +27,7 @@ Lista de conteúdos apresentados na pós.
 |[Node.js](./nodejs)|40 horas|[Marlon](/professores/marlon)|
 |Progressive web apps|30 horas|Subistituido por [DevOps](./devops)|
 |[DevOps](./devops)|30 horas|[Jemerson](/professores/jemerson)|
-|Ruby on Rails|40 horas| |
+|[Ruby on Rails](./ruby-on-rails)|40 horas|[Mauricio](/professores/mauricio)|
 |**Total**|**360 horas**| |
 
 ## Cronograma
@@ -65,3 +65,6 @@ Lista de conteúdos apresentados na pós.
 |02/07/2022|[Node.js](./nodejs)|Post no [blog](/blog/29)|
 |16/07/2022|[Node.js](./nodejs)|Post no [blog](/blog/30)|
 |13/08/2022|[DevOps](./devops)|Post no [blog](/blog/31)|
+|27/08/2022|[DevOps](./devops)|Post no [blog](/blog/32)|
+|10/09/2022|[DevOps](./devops)|Post no [blog](/blog/33)|
+|17/09/2022|[Ruby on Rails](./ruby-on-rails)|Post no [blog](/blog/34)|
