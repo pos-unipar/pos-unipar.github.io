@@ -42,14 +42,14 @@ Scaffolds; Controllers; Filtros; i18n; Helpers; Banco de dados; arquitetura MVC;
 - 13/08/2022
   - [Máterial em PDF](/docs/aula-34/Ruby-e-Ruby-on-Rails.pdf) - Documento da aula 01
 - 01/10/2022
-  - 
+  - [JamBoard](/docs/aula-35/JamBoard.pdf) - Documento de uma atividade feita durante a aula 02
 - 15/10/2022
   - 
 - 29/10/2022
   - 
 
 ## Repositórios (Forks)
-- 
+- [pos-unipar-rails-app](https://github.com/pos-unipar/pos-unipar-rails-app.git)
 
 ## Atividades solicitadas para serem entregues
 
