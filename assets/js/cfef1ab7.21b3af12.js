@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[1759],{14216:function(a){a.exports=JSON.parse('{"label":"ruby o rails","permalink":"/blog/tags/ruby-o-rails","allTagsPath":"/blog/tags","count":2}')}}]);

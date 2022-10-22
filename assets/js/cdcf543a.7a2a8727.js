@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[5666],{4125:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/remoto","page":1,"postsPerPage":10,"totalPages":2,"totalCount":13,"nextPage":"/blog/tags/remoto/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
