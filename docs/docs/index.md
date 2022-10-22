@@ -68,3 +68,5 @@ Lista de conteúdos apresentados na pós.
 |27/08/2022|[DevOps](./devops)|Post no [blog](/blog/32)|
 |10/09/2022|[DevOps](./devops)|Post no [blog](/blog/33)|
 |17/09/2022|[Ruby on Rails](./ruby-on-rails)|Post no [blog](/blog/34)|
+|01/10/2022|[Ruby on Rails](./ruby-on-rails)|Post no [blog](/blog/35)|
+|15/10/2022|[Ruby on Rails](./ruby-on-rails)|Post no [blog](/blog/36)|

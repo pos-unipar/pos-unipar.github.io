@@ -15,6 +15,7 @@ module.exports = {
         'disciplina-7',
         'disciplina-8',
         'disciplina-9',
+        'disciplina-10',
       ],
     },
   ],
