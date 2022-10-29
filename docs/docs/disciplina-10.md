@@ -20,6 +20,7 @@ Scaffolds; Controllers; Filtros; i18n; Helpers; Banco de dados; arquitetura MVC;
 ## Assuntos abordados
 
 - Ruby;
+- Rails;
 
 ## Calendário
 
@@ -37,14 +38,19 @@ Scaffolds; Controllers; Filtros; i18n; Helpers; Banco de dados; arquitetura MVC;
 - [15/10/2022 - Aula 03](/blog/36)
   - React
   - Next.js
-- [29/10/2022 - Aula 04](/blog/#)
-  - 
+- [29/10/2022 - Aula 04](/blog/37)
+  - Next.js
+  - Autenticação com NextAuth
+  - SWR
 
 ## Materiais utilizados na disciplina
 - 13/08/2022
   - [Máterial em PDF](/docs/aula-34/Ruby-e-Ruby-on-Rails.pdf) - Documento da aula 01
 - 01/10/2022
+  - [Máterial em PDF](/docs/aula-35/Ruby-e-Ruby-on-Rails.pdf) - Documento da aula 02
   - [JamBoard](/docs/aula-35/JamBoard.pdf) - Documento de uma atividade feita durante a aula 02
+- 15/10/2022
+  - [Máterial em PDF](/docs/aula-36/Ruby-e-Ruby-on-Rails.pdf) - Documento da aula 03
 - 29/10/2022
   - 
 
@@ -55,10 +61,13 @@ Scaffolds; Controllers; Filtros; i18n; Helpers; Banco de dados; arquitetura MVC;
 
 ### Trabalho final
 
+> [Formulário online](https://forms.gle/1hakWXDhWuENgYXp8)
+
 ```Entregar até o dia 05/11/2022```
 
 <details><summary>Transcrição</summary>
 <p>
+
 Fala gurizada, passando aqui para comentar sobre nossa avaliação da disciplina/módulo de **ruby on rails** com **next.js**.
 
 Estou passando com uma semana de antecedência para que vocês possam se organizar.
@@ -70,5 +79,6 @@ O projeto/avaliação se dará da seguinte maneira.
 3. Consumir a API no front com **next.js**
 
 A aula passada gravada aborda a parte do front, então não tem segredo. A parte da API fico a disposição para auxílios caso for necessário.
+
 </p>
 </details>  
