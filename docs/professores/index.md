@@ -14,11 +14,10 @@ keywords:
 
 |Docente|Titulação|Disciplina|
 |-|-|-|
-|Geferson Luis Simonette|Especialista|Coordenador (até 11/2021)|
-|Fernando Rigo Botelho|Mestre|Coordenador|
+|Geferson Luis Simonette|Especialista|Coordenador (início até 11/2021)|
 |Jemerson Fernando Maia|Especialista|[HTML, CSS e JS](../docs/html-css-js)|
 |Jean Junior Heldt|Especialista|[Angular](../docs/angular)|
-|Fernando Rigo Botelho|Mestre|[Banco de dados](../docs/banco-de-dados)|
+|Fernando Rigo Botelho|Mestre|[Banco de dados](../docs/banco-de-dados) e Coordenador (11/2022 até o final)|
 |Djonathan Barros|Mestre|[Backend com Java](../docs/backend-java)|
 |Paulo Henrique P. dos Santos|Mestre|[Android](../docs/android)|
 |Marcos Dias Vendramini|Mestre|[Flutter](../docs/flutter)|
