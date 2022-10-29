@@ -11,6 +11,7 @@ Mauricio Natanael Ferreira
 
 - [Github](https://github.com/manfe)
 - [Email](mailto:contato@ferreiramauricio.com)
+- [Linkedin](https://www.linkedin.com/in/mauricionatanaelferreira/)
 
 ## Disciplinas
 
