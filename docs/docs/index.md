@@ -25,7 +25,7 @@ Lista de conteúdos apresentados na pós.
 |[Flutter](./flutter)|40 horas|[Marcos](/professores/marcos)|
 |[Python](./python)|30 horas|[Everton](/professores/everton)|
 |[Node.js](./nodejs)|40 horas|[Marlon](/professores/marlon)|
-|Progressive web apps|30 horas|Subistituido por [DevOps](./devops)|
+|~~Progressive web apps~~|30 horas|Subistituido por [DevOps](./devops)|
 |[DevOps](./devops)|30 horas|[Jemerson](/professores/jemerson)|
 |[Ruby on Rails](./ruby-on-rails)|40 horas|[Mauricio](/professores/mauricio)|
 |**Total**|**360 horas**| |
@@ -70,3 +70,4 @@ Lista de conteúdos apresentados na pós.
 |17/09/2022|[Ruby on Rails](./ruby-on-rails)|Post no [blog](/blog/34)|
 |01/10/2022|[Ruby on Rails](./ruby-on-rails)|Post no [blog](/blog/35)|
 |15/10/2022|[Ruby on Rails](./ruby-on-rails)|Post no [blog](/blog/36)|
+|29/10/2022|[Ruby on Rails](./ruby-on-rails)|Post no [blog](/blog/37)|
