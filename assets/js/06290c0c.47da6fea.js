@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpos_unipar=self.webpackChunkpos_unipar||[]).push([[3905],{75450:function(a){a.exports=JSON.parse('{"label":"rails","permalink":"/blog/tags/rails","allTagsPath":"/blog/tags","count":3}')}}]);
